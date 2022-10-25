@@ -1,0 +1,287 @@
+Rk,Player,School,Conf,G,RushAtt,RushYds,RushAvg,RushTD,Rec,RecYds,RecAvg,RecTD,Plays,TotalYds,YardsPerPlay,TotalTDs
+1,Elijah McGuire,Louisiana,Sun Belt,13,103,863,8.4,8,22,384,17.5,3,125,1247,10.0,11
+2,Karlos Williams,Florida State,ACC,14,91,730,8.0,11,8,63,7.9,0,99,793,8.0,11
+3,Terry Baggett,Army,Ind,12,141,1113,7.9,8,6,123,20.5,0,147,1236,8.4,8
+4,Melvin Gordon,Wisconsin,Big Ten,13,206,1609,7.8,12,1,10,10.0,0,207,1619,7.8,12
+5,Kenyan Drake,Alabama,SEC,11,92,694,7.5,8,12,135,11.3,1,104,829,8.0,9
+6,Lache Seastrunk,Baylor,Big 12,11,158,1177,7.4,11,0,0,,0,158,1177,7.4,11
+7,Marcus Mariota,Oregon,Pac-12,13,96,715,7.4,9,0,0,,0,96,715,7.4,9
+8,Carlos Hyde,Ohio State,Big Ten,11,208,1521,7.3,15,16,147,9.2,3,224,1668,7.4,18
+9,Tevin Coleman,Indiana,Big Ten,9,131,958,7.3,12,19,193,10.2,0,150,1151,7.7,12
+10,Terrence Magee,LSU,SEC,13,86,626,7.3,8,6,49,8.2,0,92,675,7.3,8
+11,Jeremy Hill,LSU,SEC,12,203,1401,6.9,16,18,181,10.1,0,221,1582,7.2,16
+12,Shock Linwood,Baylor,Big 12,12,128,881,6.9,8,4,19,4.8,0,132,900,6.8,8
+13,Henry Josey,Missouri,SEC,14,174,1166,6.7,16,10,65,6.5,1,184,1231,6.7,17
+14,David Fluellen,Toledo,MAC,9,167,1121,6.7,10,27,222,8.2,0,194,1343,6.9,10
+15,Michael Gordon,Arkansas State,Sun Belt,12,112,754,6.7,10,16,206,12.9,1,128,960,7.5,11
+16,Stephen Houston,Indiana,Big Ten,12,112,753,6.7,5,11,113,10.3,0,123,866,7.0,5
+17,Cameron Artis-Payne,Auburn,SEC,13,91,610,6.7,6,1,4,4.0,0,92,614,6.7,6
+18,Jordan Lynch,Northern Illinois,MAC,14,292,1920,6.6,23,1,17,17.0,1,293,1937,6.6,24
+19,Anthony Lacoste,Air Force,MWC,12,135,890,6.6,6,0,0,,0,135,890,6.6,6
+20,Cole Gautsche,New Mexico,MWC,9,118,777,6.6,8,0,0,,0,118,777,6.6,8
+21,Antonio Andrews,Western Kentucky,Sun Belt,12,267,1730,6.5,16,41,478,11.7,0,308,2208,7.2,16
+22,James White,Wisconsin,Big Ten,13,221,1444,6.5,13,39,300,7.7,2,260,1744,6.7,15
+23,Reggie Whatley,Middle Tennessee State,CUSA,12,101,657,6.5,3,5,5,1.0,0,106,662,6.2,3
+24,Marcus Murphy,Missouri,SEC,14,92,601,6.5,9,11,79,7.2,1,103,680,6.6,10
+25,Larry Dixon,Army,Ind,9,111,715,6.4,6,3,48,16.0,0,114,763,6.7,6
+26,Duke Johnson,Miami (FL),ACC,8,145,920,6.3,6,4,77,19.3,0,149,997,6.7,6
+27,Kareem Hunt,Toledo,MAC,11,137,866,6.3,6,12,68,5.7,0,149,934,6.3,6
+28,Horactio Banks,Ball State,MAC,9,95,595,6.3,7,1,7,7.0,0,96,602,6.3,7
+29,Kapri Bibbs,Colorado State,MWC,14,281,1741,6.2,31,8,59,7.4,0,289,1800,6.2,31
+30,Braxton Miller,Ohio State,Big Ten,12,171,1068,6.2,12,0,0,,0,171,1068,6.2,12
+31,Nick Marshall,Auburn,SEC,13,172,1068,6.2,12,1,35,35.0,0,173,1103,6.4,12
+32,Byron Marshall,Oregon,Pac-12,12,168,1038,6.2,14,13,155,11.9,0,181,1193,6.6,14
+33,Dak Prescott,Mississippi State,SEC,11,134,829,6.2,13,2,53,26.5,2,136,882,6.5,15
+34,Thomas Tyner,Oregon,Pac-12,12,115,711,6.2,9,14,134,9.6,0,129,845,6.6,9
+35,De'Anthony Thomas,Oregon,Pac-12,10,96,594,6.2,8,22,246,11.2,1,118,840,7.1,9
+36,Andre Williams,Boston College,ACC,13,355,2177,6.1,18,0,0,,0,355,2177,6.1,18
+37,Charles Ross,Rice,CUSA,12,211,1280,6.1,15,5,37,7.4,1,216,1317,6.1,16
+38,Kenneth Dixon,Louisiana Tech,CUSA,10,151,917,6.1,4,14,85,6.1,1,165,1002,6.1,5
+39,Jordan Howard,UAB,CUSA,11,145,881,6.1,2,4,83,20.8,1,149,964,6.5,3
+40,Josh Snead,Duke,ACC,13,107,651,6.1,2,6,29,4.8,1,113,680,6.0,3
+41,Crusoe Gongbay,New Mexico,MWC,12,97,592,6.1,6,3,23,7.7,0,100,615,6.2,6
+42,Ameer Abdullah,Nebraska,Big Ten,13,281,1690,6.0,9,26,232,8.9,2,307,1922,6.3,11
+43,T.J. Yeldon,Alabama,SEC,12,207,1235,6.0,14,20,183,9.2,0,227,1418,6.2,14
+44,Todd Gurley,Georgia,SEC,10,165,989,6.0,10,37,441,11.9,6,202,1430,7.1,16
+45,Jonathan Williams,Arkansas,SEC,12,150,900,6.0,4,7,72,10.3,2,157,972,6.2,6
+46,Donnel Pumphrey,San Diego State,MWC,13,125,752,6.0,8,22,234,10.6,2,147,986,6.7,10
+47,Russell Hansbrough,Missouri,SEC,14,114,685,6.0,4,2,11,5.5,0,116,696,6.0,4
+48,George Atkinson III,Notre Dame,Ind,12,93,555,6.0,3,7,51,7.3,0,100,606,6.1,3
+49,Kasey Carrier,New Mexico,MWC,10,189,1122,5.9,9,3,43,14.3,1,192,1165,6.1,10
+50,Devonta Freeman,Florida State,ACC,14,173,1016,5.9,14,22,278,12.6,1,195,1294,6.6,15
+51,Shaun Wick,Wyoming,MWC,12,166,979,5.9,9,21,118,5.6,2,187,1097,5.9,11
+52,I'Tavius Mathers,Ole Miss,SEC,12,95,563,5.9,3,10,83,8.3,0,105,646,6.2,3
+53,Mike Davis,South Carolina,SEC,12,203,1183,5.8,11,34,352,10.4,0,237,1535,6.5,11
+54,Robert Lowe,Texas State,Sun Belt,12,164,945,5.8,9,19,166,8.7,1,183,1111,6.1,10
+55,Javorius Allen,USC,Pac-12,13,135,785,5.8,14,22,252,11.5,1,157,1037,6.6,15
+56,Tevin King,Louisiana Tech,CUSA,9,93,539,5.8,1,8,56,7.0,0,101,595,5.9,1
+57,Zach Laskey,Georgia Tech,ACC,13,84,485,5.8,7,3,54,18.0,1,87,539,6.2,8
+58,Bishop Sankey,Washington,Pac-12,13,327,1870,5.7,20,28,304,10.9,1,355,2174,6.1,21
+59,Tre Mason,Auburn,SEC,14,317,1816,5.7,23,12,163,13.6,1,329,1979,6.0,24
+60,Travis Greene,Bowling Green State,MAC,14,279,1594,5.7,11,18,155,8.6,2,297,1749,5.9,13
+61,Jay Ajayi,Boise State,MWC,13,249,1425,5.7,18,22,222,10.1,1,271,1647,6.1,19
+62,Jamaal Williams,Brigham Young,Ind,12,217,1233,5.7,7,18,125,6.9,0,235,1358,5.8,7
+63,Hosey Williams,Cincinnati,American,11,115,655,5.7,4,4,21,5.3,0,119,676,5.7,4
+64,T.J. Logan,North Carolina,ACC,9,93,533,5.7,4,10,124,12.4,0,103,657,6.4,4
+65,Chris Nutall,Texas State,Sun Belt,11,83,477,5.7,6,5,48,9.6,0,88,525,6.0,6
+66,Bronson Hill,Eastern Michigan,MAC,11,196,1101,5.6,5,16,175,10.9,1,212,1276,6.0,6
+67,Paul James,Rutgers,American,9,156,881,5.6,9,11,107,9.7,0,167,988,5.9,9
+68,Prince-Tyson Gulley,Syracuse,ACC,11,83,462,5.6,4,15,59,3.9,1,98,521,5.3,5
+69,Taysom Hill,Brigham Young,Ind,13,246,1344,5.5,10,0,0,,0,246,1344,5.5,10
+70,Joey Demartino,Utah State,MWC,14,221,1221,5.5,13,13,125,9.6,1,234,1346,5.8,14
+71,Cameron Stingily,Northern Illinois,MAC,13,203,1119,5.5,9,7,44,6.3,0,210,1163,5.5,9
+72,Brennan Clay,Oklahoma,Big 12,13,175,957,5.5,6,16,99,6.2,0,191,1056,5.5,6
+73,David Sims,Georgia Tech,ACC,13,161,884,5.5,11,2,71,35.5,1,163,955,5.9,12
+74,James Conner,Pitt,ACC,12,146,799,5.5,8,3,33,11.0,0,149,832,5.6,8
+75,Josh Ferguson,Illinois,Big Ten,12,141,779,5.5,7,50,535,10.7,4,191,1314,6.9,11
+76,Kevin Grooms,Marshall,CUSA,9,91,503,5.5,6,9,80,8.9,1,100,583,5.8,7
+77,Ka'Deem Carey,Arizona,Pac-12,12,349,1885,5.4,19,26,173,6.7,1,375,2058,5.5,20
+78,Alex Collins,Arkansas,SEC,12,190,1026,5.4,4,11,63,5.7,0,201,1089,5.4,4
+79,Roderick McDowell,Clemson,ACC,13,189,1025,5.4,5,29,199,6.9,2,218,1224,5.6,7
+80,Treyvon Green,Northwestern,Big Ten,11,137,736,5.4,8,10,71,7.1,1,147,807,5.5,9
+81,D.J. Foster,Arizona State,Pac-12,14,93,501,5.4,6,63,653,10.4,4,156,1154,7.4,10
+82,Storm Johnson,UCF,American,13,213,1139,5.3,14,30,260,8.7,3,243,1399,5.8,17
+83,Charles Sims,West Virginia,Big 12,12,208,1095,5.3,11,45,401,8.9,3,253,1496,5.9,14
+84,Brandin Byrd,North Texas,CUSA,13,202,1075,5.3,11,11,46,4.2,1,213,1121,5.3,12
+85,John Hubert,Kansas State,Big 12,13,198,1048,5.3,10,13,129,9.9,1,211,1177,5.6,11
+86,Daniel Sams,Kansas State,Big 12,13,152,807,5.3,11,0,0,,0,152,807,5.3,11
+87,Johnny Manziel,Texas A&M,SEC,13,144,759,5.3,9,0,0,,0,144,759,5.3,9
+88,B.J. Catalon,TCU,Big 12,11,107,569,5.3,6,11,78,7.1,0,118,647,5.5,6
+89,Jordon James,UCLA,Pac-12,7,101,534,5.3,5,10,55,5.5,0,111,589,5.3,5
+90,Marlin Lane Jr.,Tennessee,SEC,11,101,534,5.3,4,9,50,5.6,0,110,584,5.3,4
+91,Zaire Williams,Temple,American,11,101,533,5.3,3,11,128,11.6,0,112,661,5.9,3
+92,Tarean Folston,Notre Dame,Ind,9,88,470,5.3,3,5,35,7.0,0,93,505,5.4,3
+93,Imani Cross,Nebraska,Big Ten,13,85,447,5.3,10,4,13,3.3,0,89,460,5.2,10
+94,Tyler Gaffney,Stanford,Pac-12,14,330,1709,5.2,21,15,86,5.7,1,345,1795,5.2,22
+95,Vintavious Cooper,East Carolina,CUSA,13,230,1193,5.2,13,44,412,9.4,1,274,1605,5.9,14
+96,Essray Taliaferro,Marshall,CUSA,14,221,1140,5.2,10,12,128,10.7,1,233,1268,5.4,11
+97,Rajion Neal,Tennessee,SEC,12,215,1124,5.2,12,27,108,4.0,0,242,1232,5.1,12
+98,Jahwan Edwards,Ball State,MAC,11,212,1110,5.2,14,7,31,4.4,0,219,1141,5.2,14
+99,Marion Grice,Arizona State,Pac-12,11,191,996,5.2,14,50,438,8.8,6,241,1434,6.0,20
+100,B.J. Denker,Arizona,Pac-12,13,181,949,5.2,13,0,0,,0,181,949,5.2,13
+101,Aaron Jones,UTEP,CUSA,9,155,811,5.2,4,4,14,3.5,0,159,825,5.2,4
+102,Joshua Quezada,Fresno State,MWC,13,155,807,5.2,6,51,290,5.7,1,206,1097,5.3,7
+103,Jay Jones,South Alabama,Sun Belt,12,143,737,5.2,5,18,135,7.5,0,161,872,5.4,5
+104,Marteze Waller,Fresno State,MWC,12,124,646,5.2,7,23,173,7.5,0,147,819,5.6,7
+105,Michael Adkins II,Colorado,Pac-12,9,103,535,5.2,6,11,127,11.5,1,114,662,5.8,7
+106,Ryan Brumfield,Eastern Michigan,MAC,12,98,509,5.2,5,5,80,16.0,2,103,589,5.7,7
+107,David Glasco II,UTSA,CUSA,10,95,496,5.2,5,2,12,6.0,1,97,508,5.2,6
+108,David Cobb,Minnesota,Big Ten,13,237,1202,5.1,7,17,174,10.2,0,254,1376,5.4,7
+109,Dominique Brown,Louisville,American,13,163,825,5.1,8,24,228,9.5,1,187,1053,5.6,9
+110,Bill Belton,Penn State,Big Ten,11,157,803,5.1,5,15,158,10.5,2,172,961,5.6,7
+111,Jordan Parker,Middle Tennessee State,CUSA,11,146,745,5.1,6,14,31,2.2,0,160,776,4.9,6
+112,Tre Madden,USC,Pac-12,11,138,703,5.1,3,15,201,13.4,4,153,904,5.9,7
+113,Branden Oliver,Buffalo,MAC,12,310,1535,5.0,15,25,173,6.9,1,335,1708,5.1,16
+114,Trey Watts,Tulsa,CUSA,12,268,1329,5.0,11,46,395,8.6,1,314,1724,5.5,12
+115,Brandon Burks,Troy,Sun Belt,12,133,664,5.0,2,36,188,5.2,0,169,852,5.0,2
+116,Jela Duncan,Duke,ACC,13,113,562,5.0,3,13,123,9.5,1,126,685,5.4,4
+117,Kenneth Farrow,Houston,American,11,103,514,5.0,6,24,113,4.7,1,127,627,4.9,7
+118,Jowan Davis,Rice,CUSA,9,95,476,5.0,3,0,0,,0,95,476,5.0,3
+119,Centarius Donald,Louisiana-Monroe,Sun Belt,8,87,433,5.0,4,14,52,3.7,0,101,485,4.8,4
+120,Tre Roberson,Indiana,Big Ten,12,85,423,5.0,5,0,0,,0,85,423,5.0,5
+121,Jeremy Langford,Michigan State,Big Ten,14,292,1422,4.9,18,28,157,5.6,1,320,1579,4.9,19
+122,Tim Cornett,UNLV,MWC,13,264,1284,4.9,15,30,164,5.5,0,294,1448,4.9,15
+123,Adam Muema,San Diego State,MWC,13,256,1244,4.9,15,18,98,5.4,0,274,1342,4.9,15
+124,Johnathan Gray,Texas,Big 12,9,159,780,4.9,4,15,61,4.1,0,174,841,4.8,4
+125,Marcus Shaw,South Florida,American,10,156,765,4.9,3,14,115,8.2,0,170,880,5.2,3
+126,Damien Williams,Oklahoma,Big 12,9,114,553,4.9,7,9,90,10.0,0,123,643,5.2,7
+127,Marcus Mason,Washington State,Pac-12,13,87,429,4.9,2,52,390,7.5,2,139,819,5.9,4
+128,Anthone Taylor,Buffalo,MAC,9,82,399,4.9,3,7,45,6.4,0,89,444,5.0,3
+129,Jeremiah Bryson,Middle Tennessee State,CUSA,8,82,398,4.9,3,13,69,5.3,0,95,467,4.9,3
+130,James Sims,Kansas,Big 12,12,230,1110,4.8,7,25,166,6.6,0,255,1276,5.0,7
+131,Jarrod Lawson,San Jose State,MWC,10,164,788,4.8,4,20,223,11.2,1,184,1011,5.5,5
+132,Senorise Perry,Louisville,American,13,141,677,4.8,6,18,178,9.9,1,159,855,5.4,7
+133,Ryan Jackson,Houston,American,13,139,661,4.8,6,27,296,11.0,2,166,957,5.8,8
+134,Ben Malena,Texas A&M,SEC,13,115,551,4.8,10,21,190,9.0,1,136,741,5.4,11
+135,Marquise Williams,North Carolina,ACC,11,111,536,4.8,6,2,52,26.0,1,113,588,5.2,7
+136,Dreamius Smith,West Virginia,Big 12,12,103,494,4.8,5,2,11,5.5,0,105,505,4.8,5
+137,Jojo Kemp,Kentucky,SEC,12,100,482,4.8,3,9,56,6.2,0,109,538,4.9,3
+138,Travis Wilson,Utah,Pac-12,9,81,386,4.8,5,0,0,,0,81,386,4.8,5
+139,Zach Zwinak,Penn State,Big Ten,12,210,989,4.7,12,3,27,9.0,0,213,1016,4.8,12
+140,Alonzo Harris,Louisiana,Sun Belt,13,199,942,4.7,14,4,30,7.5,0,203,972,4.8,14
+141,Isaac Bennett,Pitt,ACC,13,171,797,4.7,7,10,58,5.8,1,181,855,4.7,8
+142,Brandon Ross,Maryland,ACC,12,166,776,4.7,4,18,173,9.6,0,184,949,5.2,4
+143,Shadrach Thornton,North Carolina State,ACC,11,165,768,4.7,4,16,97,6.1,0,181,865,4.8,4
+144,Brett Hundley,UCLA,Pac-12,13,160,748,4.7,11,1,7,7.0,1,161,755,4.7,12
+145,Joey Iosefa,Hawaii,MWC,5,126,590,4.7,5,10,87,8.7,1,136,677,5.0,6
+146,Justin Goodwin,Rutgers,American,10,111,521,4.7,5,10,86,8.6,1,121,607,5.0,6
+147,Terrel Hunt,Syracuse,ACC,12,107,500,4.7,7,2,-11,-5.5,0,109,489,4.5,7
+148,Darrin Reaves,UAB,CUSA,12,201,928,4.6,12,29,294,10.1,2,230,1222,5.3,14
+149,Jerome Smith,Syracuse,ACC,13,200,914,4.6,12,8,74,9.3,1,208,988,4.8,13
+150,Jawon Chisholm,Akron,MAC,12,189,869,4.6,8,27,211,7.8,1,216,1080,5.0,9
+151,Orleans Darkwa,Tulane,CUSA,13,188,863,4.6,12,8,57,7.1,0,196,920,4.7,12
+152,Desmond Roland,Oklahoma State,Big 12,13,176,811,4.6,13,9,83,9.2,3,185,894,4.8,16
+153,Cam McDaniel,Notre Dame,Ind,13,152,705,4.6,3,6,34,5.7,0,158,739,4.7,3
+154,Darevon Chance,Western Michigan,MAC,12,151,692,4.6,3,14,114,8.1,0,165,806,4.9,3
+155,Ross Metheny,South Alabama,Sun Belt,12,132,604,4.6,10,1,7,7.0,0,133,611,4.6,10
+156,Brett Smith,Wyoming,MWC,12,125,573,4.6,4,0,0,,0,125,573,4.6,4
+157,Jonathan Wallace,Florida Atlantic,CUSA,9,119,553,4.6,3,14,73,5.2,0,133,626,4.7,3
+158,Jaylen Walton,Ole Miss,SEC,13,113,523,4.6,6,29,322,11.1,2,142,845,6.0,8
+159,Terron Ward,Oregon State,Pac-12,13,113,521,4.6,5,34,280,8.2,3,147,801,5.4,8
+160,Kelvin Taylor,Florida,SEC,9,111,508,4.6,4,5,37,7.4,0,116,545,4.7,4
+161,Brandon Miller,Wyoming,MWC,11,83,385,4.6,3,23,193,8.4,2,106,578,5.5,5
+162,Keenan Reynolds,Navy,Ind,13,300,1346,4.5,31,0,0,,0,300,1346,4.5,31
+163,Kevin Parks,Virginia,ACC,12,227,1031,4.5,11,38,329,8.7,1,265,1360,5.1,12
+164,Beau Blankenship,Ohio,MAC,13,204,910,4.5,5,15,62,4.1,0,219,972,4.4,5
+165,Jaquez Johnson,Florida Atlantic,CUSA,11,172,772,4.5,10,1,34,34.0,0,173,806,4.7,10
+166,Kenneth Harper,Temple,American,12,136,613,4.5,9,26,241,9.3,2,162,854,5.3,11
+167,Jyruss Edwards,Louisiana-Monroe,Sun Belt,12,99,447,4.5,2,11,38,3.5,0,110,485,4.4,2
+168,Kendrick Hardy,Southern Mississippi,CUSA,10,93,417,4.5,2,6,64,10.7,1,99,481,4.9,3
+169,Brandon Betancourt,New Mexico State,Ind,8,93,415,4.5,2,13,106,8.2,1,106,521,4.9,3
+170,Tion Green,Cincinnati,American,11,91,412,4.5,7,2,12,6.0,0,93,424,4.6,7
+171,Evans Okotcha,UTSA,CUSA,8,75,337,4.5,2,10,142,14.2,0,85,479,5.6,2
+172,Kendall Brock,Nevada,MWC,11,185,812,4.4,10,10,56,5.6,0,195,868,4.5,10
+173,Saylor Lavallii,Central Michigan,MAC,12,182,807,4.4,5,12,62,5.2,1,194,869,4.5,6
+174,Jerron Seymour,Vanderbilt,SEC,12,164,716,4.4,14,19,126,6.6,0,183,842,4.6,14
+175,Cody Fajardo,Nevada,MWC,10,141,621,4.4,8,0,0,,0,141,621,4.4,8
+176,Robert Marshall,Utah State,MWC,10,94,415,4.4,1,4,46,11.5,0,98,461,4.7,1
+177,Mark Weisman,Iowa,Big Ten,13,227,975,4.3,8,5,41,8.2,0,232,1016,4.4,8
+178,Brandon Hayes,Memphis,American,12,201,860,4.3,5,20,119,6.0,2,221,979,4.4,7
+179,Paul Perkins,UCLA,Pac-12,13,134,573,4.3,6,24,296,12.3,0,158,869,5.5,6
+180,Kain Colter,Northwestern,Big Ten,10,115,489,4.3,5,3,16,5.3,1,118,505,4.3,6
+181,Raymond Sanders III,Kentucky,SEC,11,107,464,4.3,3,19,137,7.2,0,126,601,4.8,3
+182,Jalen Whitlow,Kentucky,SEC,12,107,457,4.3,6,1,10,10.0,0,108,467,4.3,6
+183,Conor Hundley,Akron,MAC,12,100,425,4.3,0,8,16,2.0,0,108,441,4.1,0
+184,Rob Kelley,Tulane,CUSA,12,98,420,4.3,3,18,176,9.8,1,116,596,5.1,4
+185,Matt Jones,Florida,SEC,5,79,339,4.3,2,5,25,5.0,0,84,364,4.3,2
+186,Malcolm Brown,Texas,Big 12,13,214,904,4.2,9,17,195,11.5,2,231,1099,4.8,11
+187,Trayion Durham,Kent State,MAC,12,182,766,4.2,6,18,147,8.2,0,200,913,4.6,6
+188,Lyle McCombs,Connecticut,American,12,159,670,4.2,5,20,75,3.8,2,179,745,4.2,7
+189,James Franklin,Missouri,SEC,10,122,510,4.2,4,0,0,,0,122,510,4.2,4
+190,Glasco Martin,Baylor,Big 12,10,120,509,4.2,7,1,25,25.0,0,121,534,4.4,7
+191,Broam Hart,Air Force,MWC,12,113,469,4.2,6,0,0,,0,113,469,4.2,6
+192,Deandre Washington,Texas Tech,Big 12,12,107,450,4.2,4,34,269,7.9,0,141,719,5.1,4
+193,Antoinne Jimmerson,North Texas,CUSA,13,107,446,4.2,7,11,93,8.5,2,118,539,4.6,9
+194,William Stanback,UCF,American,13,105,443,4.2,6,15,186,12.4,1,120,629,5.2,7
+195,Trey Edmunds,Virginia Tech,ACC,12,166,675,4.1,10,17,155,9.1,2,183,830,4.5,12
+196,James Poole,Utah,Pac-12,12,149,607,4.1,2,29,229,7.9,0,178,836,4.7,2
+197,James Baker,Idaho,Ind,11,145,600,4.1,6,8,177,22.1,3,153,777,5.1,9
+198,C.J. Brown,Maryland,ACC,11,140,576,4.1,12,0,0,,0,140,576,4.1,12
+199,Dallas Crawford,Miami (FL),ACC,12,137,558,4.1,12,20,171,8.6,1,157,729,4.6,13
+200,Steven Lakalaka,Hawaii,MWC,11,113,468,4.1,4,13,85,6.5,0,126,553,4.4,4
+201,Germi Morrison,New Mexico State,Ind,9,109,451,4.1,4,7,67,9.6,0,116,518,4.5,4
+202,Brendan Douglas,Georgia,SEC,12,84,345,4.1,3,13,172,13.2,1,97,517,5.3,4
+203,Aaron Wimberly,Iowa State,Big 12,10,141,567,4.0,2,18,211,11.7,2,159,778,4.9,4
+204,Ladarius Perkins,Mississippi State,SEC,12,137,542,4.0,2,27,248,9.2,3,164,790,4.8,5
+205,Nathan Jeffery,UTEP,CUSA,10,133,532,4.0,5,2,23,11.5,1,135,555,4.1,6
+206,Jordan Chunn,Troy,Sun Belt,12,128,514,4.0,14,21,104,5.0,0,149,618,4.1,14
+207,Kenny Williams,Texas Tech,Big 12,13,125,497,4.0,8,30,264,8.8,1,155,761,4.9,9
+208,Jeremy Smith,Oklahoma State,Big 12,13,122,485,4.0,9,11,37,3.4,0,133,522,3.9,9
+209,Damon Bullock,Iowa,Big Ten,13,118,467,4.0,1,20,173,8.7,1,138,640,4.6,2
+210,Brendan Bigelow,California,Pac-12,12,105,421,4.0,2,34,202,5.9,0,139,623,4.5,2
+211,Mitch Leidner,Minnesota,Big Ten,10,102,407,4.0,7,0,0,,0,102,407,4.0,7
+212,Donovonn Young,Illinois,Big Ten,11,93,376,4.0,3,12,43,3.6,0,105,419,4.0,3
+213,Shontrelle Johnson,Iowa State,Big 12,12,90,358,4.0,3,5,37,7.4,0,95,395,4.2,3
+214,Don Jackson,Nevada,MWC,9,83,332,4.0,4,3,35,11.7,0,86,367,4.3,4
+215,Ralph Abernathy IV,Cincinnati,American,13,132,518,3.9,5,24,177,7.4,0,156,695,4.5,5
+216,Kelvin York,Utah,Pac-12,9,118,463,3.9,6,4,14,3.5,0,122,477,3.9,6
+217,Chris Swain,Navy,Ind,11,107,420,3.9,4,0,0,,0,107,420,3.9,4
+218,Ryan Boykin,Ohio,MAC,11,103,399,3.9,7,9,59,6.6,1,112,458,4.1,8
+219,Chris Nwoke,Colorado State,MWC,13,101,398,3.9,2,6,73,12.2,1,107,471,4.4,3
+220,Philip Nelson,Minnesota,Big Ten,11,93,364,3.9,6,0,0,,0,93,364,3.9,6
+221,Wesley Tate,Vanderbilt,SEC,12,90,355,3.9,4,18,149,8.3,1,108,504,4.7,5
+222,Brian Fields,Western Michigan,MAC,11,150,574,3.8,6,13,122,9.4,0,163,696,4.3,6
+223,Christian Powell,Colorado,Pac-12,12,147,562,3.8,3,8,71,8.9,0,155,633,4.1,3
+224,Storm Woods,Oregon State,Pac-12,11,127,477,3.8,6,47,440,9.4,1,174,917,5.3,7
+225,Josh Harris,Wake Forest,ACC,12,125,470,3.8,4,15,117,7.8,0,140,587,4.2,4
+226,Akeem Hunt,Purdue,Big Ten,12,123,464,3.8,1,38,340,8.9,2,161,804,5.0,3
+227,Mike Trumpy,Northwestern,Big Ten,11,98,370,3.8,2,15,98,6.5,0,113,468,4.1,2
+228,Eric Soza,UTSA,CUSA,12,97,369,3.8,7,0,0,,0,97,369,3.8,7
+229,Colin Reardon,Kent State,MAC,11,88,336,3.8,2,0,0,,0,88,336,3.8,2
+230,Jalen Richard,Southern Mississippi,CUSA,11,85,326,3.8,0,21,168,8.0,1,106,494,4.7,1
+231,Mack Brown,Florida,SEC,12,148,543,3.7,4,11,57,5.2,0,159,600,3.8,4
+232,Jamal Wilson,Massachusetts,MAC,8,100,368,3.7,1,14,106,7.6,0,114,474,4.2,1
+233,P.J. Walker,Temple,American,9,90,332,3.7,3,0,0,,0,90,332,3.7,3
+234,Prescott Line,SMU,American,12,90,332,3.7,3,11,56,5.1,0,101,388,3.8,3
+235,Lorenzo Woodley,Massachusetts,MAC,8,84,314,3.7,2,5,31,6.2,0,89,345,3.9,2
+236,Connor Shaw,South Carolina,SEC,13,154,558,3.6,6,1,9,9.0,1,155,567,3.7,7
+237,David Oku,Arkansas State,Sun Belt,12,142,511,3.6,6,17,114,6.7,0,159,625,3.9,6
+238,Reggie Pegram,North Texas,CUSA,8,94,338,3.6,6,6,56,9.3,0,100,394,3.9,6
+239,Fitzgerald Toussaint,Michigan,Big Ten,12,185,648,3.5,13,18,203,11.3,0,203,851,4.2,13
+240,Taylor Kelly,Arizona State,Pac-12,14,173,608,3.5,9,0,0,,0,173,608,3.5,9
+241,Angel Santiago,Army,Ind,12,171,598,3.5,10,0,0,,0,171,598,3.5,10
+242,Lamarq Caldwell,Florida International,CUSA,12,144,504,3.5,1,13,104,8.0,1,157,608,3.9,2
+243,Travis Evans,Georgia State,Sun Belt,10,115,405,3.5,3,10,83,8.3,0,125,488,3.9,3
+244,Sam B. Richardson,Iowa State,Big 12,11,101,356,3.5,2,0,0,,0,101,356,3.5,2
+245,Max Delorenzo,Connecticut,American,12,99,349,3.5,5,8,69,8.6,0,107,418,3.9,5
+246,Adam Kennedy,Arkansas State,Sun Belt,13,153,524,3.4,4,0,0,,0,153,524,3.4,4
+247,Terrance Broadway,Louisiana,Sun Belt,12,131,442,3.4,8,0,0,,0,131,442,3.4,8
+248,Ja'Terian Douglas,Tulsa,CUSA,12,113,379,3.4,2,11,117,10.6,1,124,496,4.0,3
+249,J.C. Coleman,Virginia Tech,ACC,9,84,284,3.4,1,11,79,7.2,0,95,363,3.8,1
+250,Austin Gearing,Miami (OH),MAC,12,145,478,3.3,1,0,0,,0,145,478,3.3,1
+251,Brandon Connette,Duke,ACC,13,101,337,3.3,14,1,5,5.0,0,102,342,3.4,14
+252,Savon Huggins,Rutgers,American,13,86,286,3.3,2,12,66,5.5,0,98,352,3.6,2
+253,Derrick Green,Michigan,Big Ten,11,83,270,3.3,2,0,0,,0,83,270,3.3,2
+254,Stacey Bedell,Massachusetts,MAC,7,93,301,3.2,1,6,88,14.7,0,99,389,3.9,1
+255,Chris Solomon,Nevada,MWC,10,89,282,3.2,1,3,79,26.3,0,92,361,3.9,1
+256,Garrett Gilbert,SMU,American,10,83,267,3.2,6,0,0,,0,83,267,3.2,6
+257,Blake Bortles,UCF,American,13,87,272,3.1,6,0,0,,0,87,272,3.1,6
+258,Taylor McHargue,Rice,CUSA,14,157,464,3.0,5,0,0,,0,157,464,3.0,5
+259,Trevone Boykin,TCU,Big 12,12,105,313,3.0,7,26,204,7.8,0,131,517,3.9,7
+260,Rakeem Cato,Marshall,CUSA,14,99,294,3.0,6,0,0,,0,99,294,3.0,6
+261,Brandon Mitchell,North Carolina State,ACC,6,91,274,3.0,2,0,0,,0,91,274,3.0,2
+262,Devin Gardner,Michigan,Big Ten,12,165,483,2.9,11,0,0,,0,165,483,2.9,11
+263,Tyler Jones,Texas State,Sun Belt,8,89,257,2.9,0,0,0,,0,89,257,2.9,0
+264,Vad Lee,Georgia Tech,ACC,13,182,513,2.8,8,0,0,,0,182,513,2.8,8
+265,Silas Spearman III,Florida International,CUSA,10,132,368,2.8,4,2,35,17.5,0,134,403,3.0,4
+266,Bo Wallace,Ole Miss,SEC,13,131,355,2.7,6,1,19,19.0,0,132,374,2.8,6
+267,Caleb Herring,UNLV,MWC,13,127,346,2.7,5,0,0,,0,127,346,2.7,5
+268,Nate Romine,Air Force,MWC,9,75,205,2.7,3,0,0,,0,75,205,2.7,3
+269,Tajh Boyd,Clemson,ACC,13,154,400,2.6,10,0,0,,0,154,400,2.6,10
+270,Jake Waters,Kansas State,Big 12,13,118,312,2.6,6,0,0,,0,118,312,2.6,6
+271,Andrew McDonald,New Mexico State,Ind,12,104,256,2.5,4,0,0,,0,104,256,2.5,4
+272,Jameis Winston,Florida State,ACC,14,88,219,2.5,4,0,0,,0,88,219,2.5,4
+273,Nathan Scheelhaase,Illinois,Big Ten,12,113,271,2.4,4,0,0,,0,113,271,2.4,4
+274,Kolton Browning,Louisiana-Monroe,Sun Belt,10,98,229,2.3,2,0,0,,0,98,229,2.3,2
+275,Bryce Petty,Baylor,Big 12,13,94,209,2.2,14,0,0,,0,94,209,2.2,14
+276,Chad Chalich,Idaho,Ind,7,93,209,2.2,0,0,0,,0,93,209,2.2,0
+277,Baker Mayfield,Texas Tech,Big 12,8,88,190,2.2,3,0,0,,0,88,190,2.2,3
+278,Logan Thomas,Virginia Tech,ACC,13,162,344,2.1,4,1,9,9.0,0,163,353,2.2,4
+279,Tanner Price,Wake Forest,ACC,12,123,240,2.0,5,1,4,4.0,1,124,244,2.0,6
+280,Matt Johnson,Bowling Green State,MAC,14,117,238,2.0,5,0,-8,,0,117,230,2.0,5
+281,David Watford,Virginia,ACC,12,104,208,2.0,3,1,-4,-4.0,0,105,204,1.9,3
+282,Paxton Lynch,Memphis,American,12,88,127,1.4,2,0,0,,0,88,127,1.4,2
+283,Ronnie Bell,Georgia State,Sun Belt,12,80,113,1.4,3,1,6,6.0,0,81,119,1.5,3
+284,Keith Price,Washington,Pac-12,12,82,108,1.3,5,0,0,,0,82,108,1.3,5
+285,Shane Carden,East Carolina,CUSA,13,90,103,1.1,10,1,14,14.0,1,91,117,1.3,11
+286,Austin Boucher,Miami (OH),MAC,8,107,76,0.7,0,0,0,,0,107,76,0.7,0
