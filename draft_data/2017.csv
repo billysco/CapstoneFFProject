@@ -1,0 +1,254 @@
+Round,Pick,Team,Player,Position,Age,School
+1,1,CLE,Myles Garrett,DE,21,Texas A&M
+1,2,CHI,Mitchell Trubisky,QB,23,North Carolina
+1,3,SFO,Solomon Thomas,DE,22,Stanford
+1,4,JAX,Leonard Fournette,RB,22,LSU
+1,5,TEN,Corey Davis,WR,22,Western Michigan
+1,6,NYJ,Jamal Adams,S,21,LSU
+1,7,LAC,Mike Williams,WR,22,Clemson
+1,8,CAR,Christian McCaffrey,RB,21,Stanford
+1,9,CIN,John Ross,WR,21,Washington
+1,10,KAN,Patrick Mahomes,QB,21,Texas Tech
+1,11,NOR,Marshon Lattimore,CB,21,Ohio St.
+1,12,HOU,Deshaun Watson,QB,21,Clemson
+1,13,ARI,Haason Reddick,LB,22,Temple
+1,14,PHI,Derek Barnett,DE,21,Tennessee
+1,15,IND,Malik Hooker,S,21,Ohio St.
+1,16,BAL,Marlon Humphrey,CB,21,Alabama
+1,17,WAS,Jonathan Allen,DE,22,Alabama
+1,18,TEN,Adoree' Jackson,CB,21,USC
+1,19,TAM,O.J. Howard,TE,22,Alabama
+1,20,DEN,Garett Bolles,T,25,Utah
+1,21,DET,Jarrad Davis,LB,22,Florida
+1,22,MIA,Charles Harris,OLB,22,Missouri
+1,23,NYG,Evan Engram,TE,23,Mississippi
+1,24,OAK,Gareon Conley,CB,22,Ohio St.
+1,25,CLE,Jabrill Peppers,S,21,Michigan
+1,26,ATL,Takkarist McKinley,DE,21,UCLA
+1,27,BUF,Tre'Davious White,CB,22,LSU
+1,28,DAL,Taco Charlton,DE,22,Michigan
+1,29,CLE,David Njoku,TE,21,Miami (FL)
+1,30,PIT,T.J. Watt,OLB,22,Wisconsin
+1,31,SFO,Reuben Foster,LB,23,Alabama
+1,32,NOR,Ryan Ramczyk,T,23,Wisconsin
+2,33,GNB,Kevin King,CB,22,Washington
+2,34,JAX,Cam Robinson,T,21,Alabama
+2,35,SEA,Malik McDowell,DT,21,Michigan St.
+2,36,ARI,Budda Baker,S,21,Washington
+2,37,BUF,Zay Jones,WR,22,East Carolina
+2,38,LAC,Forrest Lamp,G,23,Western Kentucky
+2,39,NYJ,Marcus Maye,S,24,Florida
+2,40,CAR,Curtis Samuel,WR,21,Ohio St.
+2,41,MIN,Dalvin Cook,RB,22,Florida St.
+2,42,NOR,Marcus Williams,S,20,Utah
+2,43,PHI,Sidney Jones,CB,21,Washington
+2,44,LAR,Gerald Everett,TE,23,South Alabama
+2,45,CHI,Adam Shaheen,TE,22,Ashland
+2,46,IND,Quincy Wilson,CB,21,Florida
+2,47,BAL,Tyus Bowser,OLB,22,Houston
+2,48,CIN,Joe Mixon,RB,21,Oklahoma
+2,49,WAS,Ryan Anderson,OLB,23,Alabama
+2,50,TAM,Justin Evans,S,22,Texas A&M
+2,51,DEN,DeMarcus Walker,DE,22,Florida St.
+2,52,CLE,DeShone Kizer,QB,21,Notre Dame
+2,53,DET,Teez Tabor,CB,21,Florida
+2,54,MIA,Raekwon McMillan,LB,21,Ohio St.
+2,55,NYG,Dalvin Tomlinson,DT,23,Alabama
+2,56,OAK,Obi Melifonwu,S,23,Connecticut
+2,57,HOU,Zach Cunningham,LB,22,Vanderbilt
+2,58,SEA,Ethan Pocic,C,22,LSU
+2,59,KAN,Tanoh Kpassagnon,DE,23,Villanova
+2,60,DAL,Chidobe Awuzie,CB,22,Colorado
+2,61,GNB,Josh Jones,S,22,North Carolina St.
+2,62,PIT,JuJu Smith-Schuster,WR,20,USC
+2,63,BUF,Dion Dawkins,G,23,Temple
+2,64,CAR,Taylor Moton,G,23,Western Michigan
+3,65,CLE,Larry Ogunjobi,DT,23,Charlotte
+3,66,SFO,Ahkello Witherspoon,CB,22,Colorado
+3,67,NOR,Alvin Kamara,RB,22,Tennessee
+3,68,JAX,Dawuane Smoot,DE,22,Illinois
+3,69,LAR,Cooper Kupp,WR,24,East. Washington
+3,70,MIN,Pat Elflein,C,23,Ohio St.
+3,71,LAC,Dan Feeney,G,23,Indiana
+3,72,TEN,Taywan Taylor,WR,22,Western Kentucky
+3,73,CIN,Jordan Willis,OLB,22,Kansas St.
+3,74,BAL,Chris Wormley,DE,23,Michigan
+3,75,ATL,Duke Riley,LB,23,LSU
+3,76,NOR,Alex Anzalone,LB,22,Florida
+3,77,CAR,Daeshon Hall,DE,22,Texas A&M
+3,78,BAL,Tim Williams,OLB,23,Alabama
+3,79,NYJ,ArDarius Stewart,WR,23,Alabama
+3,80,IND,Tarell Basham,DE,23,Ohio
+3,81,WAS,Fabian Moreau,CB,23,UCLA
+3,82,DEN,Carlos Henderson,WR,22,Louisiana Tech
+3,83,NWE,Derek Rivers,DE,23,Youngstown St.
+3,84,TAM,Chris Godwin,WR,21,Penn St.
+3,85,NWE,Antonio Garcia,T,23,Troy
+3,86,KAN,Kareem Hunt,RB,22,Toledo
+3,87,NYG,Davis Webb,QB,22,California
+3,88,OAK,Eddie Vanderdoes,DT,22,UCLA
+3,89,HOU,D'Onta Foreman,RB,21,Texas
+3,90,SEA,Shaquill Griffin,DB,22,Central Florida
+3,91,LAR,John Johnson,S,21,Boston Col.
+3,92,DAL,Jourdan Lewis,CB,22,Michigan
+3,93,GNB,Montravius Adams,DT,22,Auburn
+3,94,PIT,Cameron Sutton,CB,22,Tennessee
+3,95,SEA,Lano Hill,S,21,Michigan
+3,96,DET,Kenny Golladay,WR,23,Northern Illinois
+3,97,MIA,Cordrea Tankersley,CB,23,Clemson
+3,98,ARI,Chad Williams,WR,22,Grambling St.
+3,99,PHI,Rasul Douglas,CB,23,West Virginia
+3,100,TEN,Jonnu Smith,TE,22,Florida International
+3,101,DEN,Brendan Langley,CB,22,Lamar
+3,102,SEA,Nazair Jones,DT,22,North Carolina
+3,103,NOR,Trey Hendrickson,OLB,22,Florida Atlantic
+3,104,SFO,C.J. Beathard,QB,23,Iowa
+3,105,PIT,James Conner,RB,22,Pittsburgh
+3,106,SEA,Amara Darboh,WR,23,Michigan
+3,107,TAM,Kendell Beckwith,ILB,22,LSU
+4,108,GNB,Vince Biegel,LB,24,Wisconsin
+4,109,MIN,Jaleel Johnson,DT,23,Iowa
+4,110,JAX,Dede Westbrook,WR,23,Oklahoma
+4,111,SEA,Tedric Thompson,S,22,Colorado
+4,112,CHI,Eddie Jackson,S,23,Alabama
+4,113,LAC,Rayshawn Jenkins,S,23,Miami (FL)
+4,114,WAS,Samaje Perine,RB,21,Oklahoma
+4,115,ARI,Dorian Johnson,G,22,Pittsburgh
+4,116,CIN,Carl Lawson,OLB,22,Auburn
+4,117,LAR,Josh Reynolds,WR,22,Texas A&M
+4,118,PHI,Mack Hollins,WR,23,North Carolina
+4,119,CHI,Tarik Cohen,RB,22,North Carolina A&T
+4,120,MIN,Ben Gedeon,ILB,22,Michigan
+4,121,SFO,Joe Williams,RB,24,Utah
+4,122,BAL,Nico Siragusa,G,23,San Diego St.
+4,123,WAS,Montae Nicholson,S,21,Michigan St.
+4,124,DET,Jalen Reeves-Maybin,LB,22,Tennessee
+4,125,LAR,Samson Ebukam,OLB,22,East. Washington
+4,126,CLE,Howard Wilson,CB,21,Houston
+4,127,DET,Michael Roberts,TE,23,Toledo
+4,128,CIN,Josh Malone,WR,21,Tennessee
+4,129,OAK,David Sharpe,T,21,Florida
+4,130,HOU,Julie'n Davenport,T,22,Bucknell
+4,131,NWE,Deatrich Wise Jr.,DE,23,Arkansas
+4,132,PHI,Donnel Pumphrey,RB,22,San Diego St.
+4,133,DAL,Ryan Switzer,WR,22,North Carolina
+4,134,GNB,Jamaal Williams,RB,22,BYU
+4,135,PIT,Joshua Dobbs,QB,22,Tennessee
+4,136,ATL,Sean Harlow,G,22,Oregon St.
+4,137,IND,Zach Banner,T,23,USC
+4,138,CIN,Ryan Glasgow,DT,23,Michigan
+4,139,KAN,Jehu Chesson,WR,23,Michigan
+4,140,NYG,Wayne Gallman,RB,22,Clemson
+4,141,NYJ,Chad Hansen,WR,22,California
+4,142,HOU,Carlos Watkins,DT,23,Clemson
+4,143,IND,Marlon Mack,RB,21,South Florida
+4,144,IND,Grover Stewart,DT,23,Albany State (GA)
+5,145,DEN,Jake Butt,TE,22,Michigan
+5,146,SFO,George Kittle,TE,23,Iowa
+5,147,CHI,Jordan Morgan,G,23,Kutztown (PA)
+5,148,JAX,Blair Brown,LB,23,Ohio
+5,149,ATL,Damontae Kazee,CB,24,San Diego St.
+5,150,NYJ,Jordan Leggett,TE,22,Clemson
+5,151,LAC,Desmond King,S,22,Iowa
+5,152,CAR,Corn Elder,CB,22,Miami (FL)
+5,153,CIN,Jake Elliott,K,22,Memphis
+5,154,WAS,Jeremy Sprinkle,TE,23,Arkansas
+5,155,TEN,Jayon Brown,LB,22,UCLA
+5,156,ATL,Brian Hill,RB,21,Wyoming
+5,157,ARI,Will Holden,T,23,Vanderbilt
+5,158,IND,Nate Hairston,CB,23,Temple
+5,159,BAL,Jermaine Eluemunor,G,22,Texas A&M
+5,160,CLE,Roderick Johnson,T,21,Florida St.
+5,161,IND,Anthony Walker,LB,22,Northwestern
+5,162,TAM,Jeremy McNichols,RB,21,Boise St.
+5,163,BUF,Matt Milano,LB,23,Boston Col.
+5,164,MIA,Isaac Asiata,G,24,Utah
+5,165,DET,Jamal Agnew,CB,22,San Diego
+5,166,PHI,Shelton Gibson,WR,23,West Virginia
+5,167,NYG,Avery Moss,DE,22,Youngstown St.
+5,168,OAK,Marquel Lee,LB,21,Wake Forest
+5,169,HOU,Treston Decoud,S,24,Oregon St.
+5,170,MIN,Rodney Adams,WR,22,South Florida
+5,171,BUF,Nathan Peterman,QB,23,Pittsburgh
+5,172,DEN,Isaiah McKenzie,WR,22,Georgia
+5,173,PIT,Brian Allen,DB,23,Utah
+5,174,ATL,Eric Saubert,TE,23,Drake
+5,175,GNB,DeAngelo Yancey,WR,22,Purdue
+5,176,CIN,JJ Dielman,C,23,Utah
+5,177,SFO,Trent Taylor,WR,23,Louisiana Tech
+5,178,MIA,Davon Godchaux,DT,22,LSU
+5,179,ARI,T.J. Logan,RB,23,North Carolina
+5,180,MIN,Danny Isidora,G,23,Miami (FL)
+5,181,NYJ,Dylan Donahue,DL,25,West Georgia
+5,182,GNB,Aaron Jones,RB,22,Texas-El Paso
+5,183,KAN,Ukeme Eligwe,LB,23,Georgia Southern
+5,184,PHI,Nathan Gerry,S,22,Nebraska
+6,185,CLE,Caleb Brantley,DT,23,Florida
+6,186,BAL,Chuck Clark,DB,22,Virginia Tech
+6,187,SEA,Michael Tyson,S,24,Cincinnati
+6,188,NYJ,Elijah McGuire,RB,23,Louisiana
+6,189,LAR,Tanzel Smart,DT,22,Tulane
+6,190,LAC,Sam Tevi,T,22,Utah
+6,191,DAL,Xavier Woods,S,22,Louisiana Tech
+6,192,CAR,Alex Armah,FB,23,West Georgia
+6,193,CIN,Jordan Evans,LB,22,Oklahoma
+6,194,MIA,Vincent Taylor,DT,23,Oklahoma St.
+6,195,BUF,Tanner Vallejo,LB,22,Boise St.
+6,196,NOR,Al-Quadin Muhammad,DE,22,Miami (FL)
+6,197,NYJ,Jeremy Clark,CB,23,Michigan
+6,198,SFO,D.J. Jones,DT,22,Mississippi
+6,199,WAS,Chase Roullier,C,24,Wyoming
+6,200,NYG,Adam Bisnowaty,T,23,Pittsburgh
+6,201,MIN,Bucky Hodges,TE,22,Virginia Tech
+6,202,SFO,Pita Taumoepenu,OLB,23,Utah
+6,203,DEN,De'Angelo Henderson,RB,24,Coastal Carolina
+6,204,NYJ,Derrick Jones,CB,22,Mississippi
+6,205,DET,Jeremiah Ledbetter,DE,23,Arkansas
+6,206,LAR,Sam Rogers,FB,22,Virginia Tech
+6,207,CIN,Brandon Wilson,RB,23,Houston
+6,208,ARI,Rudy Ford,S,22,Auburn
+6,209,WAS,Robert Davis,WR,22,Georgia St.
+6,210,SEA,Justin Senior,T,23,Mississippi St.
+6,211,NWE,Conor McDermott,T,24,UCLA
+6,212,GNB,Kofi Amichia,C,23,South Florida
+6,213,PIT,Colin Holba,LS,23,Louisville
+6,214,PHI,Elijah Qualls,DT,22,Washington
+6,215,DET,Brad Kaaya,QB,22,Miami (FL)
+6,216,DAL,Marquez White,CB,22,Florida St.
+6,217,TEN,Corey Levin,OL,23,Chattanooga
+6,218,KAN,Leon McQuay,S,22,USC
+7,219,MIN,Stacy Coley,WR,23,Miami (FL)
+7,220,MIN,Ifeadi Odenigbo,DL,23,Northwestern
+7,221,OAK,Shalom Luani,S,23,Washington St.
+7,222,JAX,Jalen Myrick,CB,22,Minnesota
+7,223,TAM,Stevie Tu'ikolovatu,NT,26,USC
+7,224,CLE,Zane Gonzalez,K,22,Arizona St.
+7,225,LAC,Isaac Rochell,DT,22,Notre Dame
+7,226,SEA,David Moore,WR,22,East Central (OK)
+7,227,TEN,Josh Carraway,OLB,23,TCU
+7,228,DAL,Joey Ivie,DT,22,Florida
+7,229,SFO,Adrian Colbert,DB,23,Miami (FL)
+7,230,WAS,Josh Harvey-Clemons,S,23,Louisville
+7,231,OAK,Jylan Ware,T,23,Alabama St.
+7,232,MIN,Elijah Lee,LB,21,Kansas St.
+7,233,CAR,Harrison Butker,K,22,Georgia Tech
+7,234,LAR,Ejuan Price,DE,24,Pittsburgh
+7,235,WAS,Joshua Holsey,DB,23,Auburn
+7,236,TEN,Brad Seaton,T,23,Villanova
+7,237,MIA,Isaiah Ford,WR,21,Virginia Tech
+7,238,GNB,Devante Mays,RB,23,Utah St.
+7,239,DAL,Noah Brown,WR,21,Ohio St.
+7,240,JAX,Marquez Williams,FB,23,Miami (FL)
+7,241,TEN,Khalfani Muhammad,RB,22,California
+7,242,OAK,Elijah Hood,RB,21,North Carolina
+7,243,HOU,Kyle Fuller,C,23,Baylor
+7,244,OAK,Treyvon Hester,DT,24,Toledo
+7,245,MIN,Jack Tocho,CB,21,North Carolina St.
+7,246,DAL,Jordan Carrell,DT,23,Colorado
+7,247,GNB,Malachi Dupre,WR,21,LSU
+7,248,PIT,Keion Adams,OLB,22,Western Michigan
+7,249,SEA,Chris Carson,RB,22,Oklahoma St.
+7,250,DET,Pat O'Connor,DE,23,East. Michigan
+7,251,CIN,Mason Schreck,TE,23,Buffalo
+7,252,CLE,Matthew Dayes,RB,23,North Carolina St.
+7,253,DEN,Chad Kelly,QB,23,Mississippi
