@@ -1,0 +1,919 @@
+,Round,Pick,Team,Player,Position,Age,School,Year,FI,LN,PK
+6,1,7,CHI,curtis conway,WR,22.0,USC,1993,c,conway,c-conway-1993
+15,1,16,IND,sean dawkins,WR,22.0,California,1993,s,dawkins,s-dawkins-1993
+24,1,25,MIA,o.j. mcduffie,WR,23.0,Penn St.,1993,o,mcduffie,o-mcduffie-1993
+45,2,46,DAL,kevin williams,WR,22.0,Miami (FL),1993,k,williams,k-williams-1993
+49,2,50,PHI,victor bailey,WR,23.0,Missouri,1993,v,bailey,v-bailey-1993
+51,2,52,MIN,qadry ismail,WR,22.0,Syracuse,1993,q,ismail,q-ismail-1993
+55,2,56,NWE,vincent brisby,WR,22.0,La-Monroe,1993,v,brisby,v-brisby-1993
+59,3,60,TAM,lamar thomas,WR,23.0,Miami (FL),1993,l,thomas,l-thomas-1993
+75,3,76,PIT,andre hastings,WR,22.0,Georgia,1993,a,hastings,a-hastings-1993
+101,4,102,HOU,travis hannah,WR,23.0,USC,1993,t,hannah,t-hannah-1993
+103,4,104,TAM,horace copeland,WR,22.0,Miami (FL),1993,h,copeland,h-copeland-1993
+110,4,111,BUF,russell copeland,WR,21.0,Memphis,1993,r,copeland,r-copeland-1993
+113,5,114,SEA,terrence warren,WR,24.0,Hampton,1993,t,warren,t-warren-1993
+121,5,122,RAM,sean lachapelle,WR,23.0,UCLA,1993,s,lachapelle,s-lachapelle-1993
+124,5,125,RAI,olanda truitt,WR,22.0,Mississippi St.,1993,o,truitt,o-truitt-1993
+128,5,129,NYJ,kenny shedd,WR,22.0,Northern Iowa,1993,k,shedd,k-shedd-1993
+133,5,134,SDG,walter dunson,WR,,Middle Tenn. St.,1993,w,dunson,w-dunson-1993
+153,6,154,DEN,melvin bonner,WR,23.0,Baylor,1993,m,bonner,m-bonner-1993
+175,7,176,TAM,tyree davis,WR,22.0,Central Arkansas,1993,t,davis,t-davis-1993
+181,7,182,DEN,tony kimbrough,WR,22.0,Jackson St.,1993,t,kimbrough,t-kimbrough-1993
+185,7,186,KAN,danan hughes,WR,22.0,Iowa,1993,d,hughes,d-hughes-1993
+186,7,187,HOU,patrick robinson,WR,23.0,Tennessee St.,1993,p,robinson,p-robinson-1993
+194,7,195,BUF,willie harris,WR,,Mississippi St.,1993,w,harris,w-harris-1993
+197,8,198,NWE,troy brown,WR,22.0,Marshall,1993,t,brown,t-brown-1993
+204,8,205,ATL,shannon baker,WR,22.0,Florida St.,1993,s,baker,s-baker-1993
+209,8,210,DEN,brian stablein,WR,23.0,Ohio St.,1993,b,stablein,b-stablein-1993
+214,8,215,PHO,stevie anderson,WR,23.0,Grambling St.,1993,s,anderson,s-anderson-1993
+219,8,220,TAM,darrick branch,WR,,Hawaii,1993,d,branch,d-branch-1993
+16,1,17,PIT,charles johnson,WR,22.0,Colorado,1994,c,johnson,c-johnson-1994
+20,1,21,DET,johnnie morton,WR,22.0,USC,1994,j,morton,j-morton-1994
+23,1,24,NYG,thomas lewis,WR,22.0,Indiana,1994,t,lewis,t-lewis-1994
+28,1,29,CLE,derrick alexander,WR,22.0,Michigan,1994,d,alexander,d-alexander-1994
+29,2,30,CIN,darnay scott,WR,22.0,San Diego St.,1994,d,scott,d-scott-1994
+32,2,33,RAM,isaac bruce,WR,21.0,Memphis,1994,i,bruce,i-bruce-1994
+34,2,35,NWE,kevin lee,WR,23.0,Alabama,1994,k,lee,k-lee-1994
+39,2,40,MIN,david palmer,WR,21.0,Alabama,1994,d,palmer,d-palmer-1994
+40,2,41,NYJ,ryan yarborough,WR,23.0,Wyoming,1994,r,yarborough,r-yarborough-1994
+44,2,45,ATL,bert emanuel,WR,23.0,Rice,1994,b,emanuel,b-emanuel-1994
+67,3,68,WAS,tydus winans,WR,22.0,Fresno St.,1994,t,winans,t-winans-1994
+69,3,70,SDG,andre coleman,WR,21.0,Kansas St.,1994,a,coleman,a-coleman-1994
+86,3,87,SFO,cory fleming,WR,23.0,Tennessee,1994,c,fleming,c-fleming-1994
+91,3,92,KAN,lake dawson,WR,22.0,Notre Dame,1994,l,dawson,l-dawson-1994
+95,3,96,KAN,chris penn,WR,23.0,Tulsa,1994,c,penn,c-penn-1994
+100,3,101,HOU,malcolm floyd,WR,21.0,Fresno St.,1994,m,floyd,m-floyd-1994
+107,4,108,RAM,chris brantley,WR,23.0,Rutgers,1994,c,brantley,c-brantley-1994
+108,4,109,DAL,willie jackson,WR,23.0,Florida,1994,w,jackson,w-jackson-1994
+116,4,117,NYJ,orlando parker,WR,22.0,Troy,1994,o,parker,o-parker-1994
+137,5,138,ATL,harrison houston,WR,,Florida,1994,h,houston,h-houston-1994
+145,5,146,GNB,terry mickens,WR,23.0,Florida A&M,1994,t,mickens,t-mickens-1994
+165,6,166,NWE,steve hawkins,WR,23.0,Western Michigan,1994,s,hawkins,s-hawkins-1994
+168,6,169,GNB,jay kearney,WR,,West Virginia,1994,j,kearney,j-kearney-1994
+169,6,170,CHI,lloyd hill,WR,,Texas Tech,1994,l,hill,l-hill-1994
+175,6,176,NOR,derrell mitchell,WR,22.0,Texas Tech,1994,d,mitchell,d-mitchell-1994
+180,6,181,GNB,bill schroeder,WR,23.0,Wisconsin–LaCrosse,1994,b,schroeder,b-schroeder-1994
+186,6,187,HOU,lee gissendaner,WR,,Northwestern,1994,l,gissendaner,l-gissendaner-1994
+191,6,192,BUF,kevin knox,WR,23.0,Florida St.,1994,k,knox,k-knox-1994
+3,1,4,WAS,michael westbrook,WR,23.0,Colorado,1995,m,westbrook,m-westbrook-1995
+7,1,8,SEA,joey galloway,WR,23.0,Ohio St.,1995,j,galloway,j-galloway-1995
+9,1,10,SFO,j.j. stokes,WR,22.0,UCLA,1995,j,stokes,j-stokes-1995
+46,2,47,ARI,frank sanders,WR,22.0,Auburn,1995,f,sanders,f-sanders-1995
+60,2,61,SDG,jimmy oliver,WR,,TCU,1995,j,oliver,j-oliver-1995
+66,3,67,HOU,chris sanders,WR,23.0,Ohio St.,1995,c,sanders,c-sanders-1995
+77,3,78,PHI,chris jones,WR,24.0,Miami (FL),1995,c,jones,c-jones-1995
+80,3,81,KAN,tamarick vanover,WR,21.0,Florida St.,1995,t,vanover,t-vanover-1995
+89,3,90,GNB,antonio freeman,WR,23.0,Virginia Tech,1995,a,freeman,a-freeman-1995
+112,4,113,BUF,justin armour,WR,22.0,Stanford,1995,j,armour,j-armour-1995
+115,4,116,CHI,jack jackson,WR,22.0,Florida,1995,j,jackson,j-jackson-1995
+138,5,139,CIN,david dunn,WR,23.0,Fresno St.,1995,d,dunn,d-dunn-1995
+144,5,145,ATL,roell preston,WR,23.0,Mississippi,1995,r,preston,r-preston-1995
+146,5,147,CLE,mike miller,WR,,Notre Dame,1995,m,miller,m-miller-1995
+155,5,156,DET,kez mccorvey,WR,23.0,Florida St.,1995,k,mccorvey,k-mccorvey-1995
+161,5,162,SDG,'omar ellison,WR,23.0,Florida St.,1995,',ellison,'-ellison-1995
+165,5,166,DAL,edward hervey,WR,,USC,1995,e,hervey,e-hervey-1995
+172,6,173,GNB,charlie simmons,WR,,Georgia Tech,1995,c,simmons,c-simmons-1995
+182,6,183,SDG,brandon harrison,WR,,Howard Payne,1995,b,harrison,b-harrison-1995
+183,6,184,NOR,lee deramus,WR,23.0,Wisconsin,1995,l,deramus,l-deramus-1995
+202,6,203,SEA,eddie goines,WR,,North Carolina St.,1995,e,goines,e-goines-1995
+211,7,212,ARI,billy williams,WR,24.0,Tennessee,1995,b,williams,b-williams-1995
+216,7,217,NYJ,curtis ceaser,WR,23.0,Grambling St.,1995,c,ceaser,c-ceaser-1995
+218,7,219,JAX,curtis marsh,WR,24.0,Utah,1995,c,marsh,c-marsh-1995
+230,7,231,CLE,a.c. tellison,WR,,Miami (FL),1995,a,tellison,a-tellison-1995
+234,7,235,PIT,henry bailey,WR,22.0,UNLV,1995,h,bailey,h-bailey-1995
+239,7,240,STL,j.t. thomas,WR,23.0,Arizona St.,1995,j,thomas,j-thomas-1995
+245,7,246,MIA,shannon myers,WR,,Lenoir-Rhyne,1995,s,myers,s-myers-1995
+0,1,1,NYJ,keyshawn johnson,WR,24.0,USC,1996,k,johnson,k-johnson-1996
+6,1,7,NWE,terry glenn,WR,22.0,Ohio St.,1996,t,glenn,t-glenn-1996
+17,1,18,STL,eddie kennison,WR,23.0,LSU,1996,e,kennison,e-kennison-1996
+18,1,19,IND,marvin harrison,WR,24.0,Syracuse,1996,m,harrison,m-harrison-1996
+23,1,24,BUF,eric moulds,WR,23.0,Mississippi St.,1996,e,moulds,e-moulds-1996
+30,2,31,NYJ,alex van dyke,WR,22.0,Nevada,1996,a,dyke,a-dyke-1996
+33,2,34,NYG,amani toomer,WR,21.0,Michigan,1996,a,toomer,a-toomer-1996
+40,2,41,SDG,bryan still,WR,22.0,Virginia Tech,1996,b,still,b-still-1996
+42,2,43,CAR,muhsin muhammad,WR,23.0,Michigan St.,1996,m,muhammad,m-muhammad-1996
+51,2,52,CHI,bobby engram,WR,23.0,Penn St.,1996,b,engram,b-engram-1996
+55,2,56,GNB,derrick mayes,WR,22.0,Notre Dame,1996,d,mayes,d-mayes-1996
+88,3,89,SFO,terrell owens,WR,22.0,Chattanooga,1996,t,owens,t-owens-1996
+93,3,94,DAL,stepfret williams,WR,23.0,La-Monroe,1996,s,williams,s-williams-1996
+109,4,110,JAX,reggie barlow,WR,23.0,Alabama St.,1996,r,barlow,r-barlow-1996
+113,4,114,SDG,charlie jones,WR,23.0,Fresno St.,1996,c,jones,c-jones-1996
+131,4,132,PIT,jahine arnold,WR,23.0,Fresno St.,1996,j,arnold,j-arnold-1996
+134,5,135,KAN,joe horn,WR,24.0,Itawamba (MS),1996,j,horn,j-horn-1996
+135,5,136,NOR,mercury hayes,WR,23.0,Michigan,1996,m,hayes,m-hayes-1996
+152,5,153,BAL,jermaine lewis,WR,21.0,Maryland,1996,j,lewis,j-lewis-1996
+158,5,159,DEN,patrick jeffers,WR,23.0,Virginia,1996,p,jeffers,p-jeffers-1996
+159,5,160,SFO,iheanyi uwaezuoke,WR,23.0,California,1996,i,uwaezuoke,i-uwaezuoke-1996
+164,5,165,NOR,terry guess,WR,21.0,Gardner-Webb,1996,t,guess,t-guess-1996
+175,6,176,KAN,dietrich jells,WR,24.0,Pittsburgh,1996,d,jells,d-jells-1996
+179,6,180,TAM,nilo silvan,WR,22.0,Tennessee,1996,n,silvan,n-silvan-1996
+184,6,185,JAX,chris doering,WR,23.0,Florida,1996,c,doering,c-doering-1996
+185,6,186,BAL,james roe,WR,23.0,Norfolk St.,1996,j,roe,j-roe-1996
+198,6,199,PHI,phillip riley,WR,23.0,Florida St.,1996,p,riley,p-riley-1996
+203,6,204,NOR,toderick malone,WR,,Alabama,1996,t,malone,t-malone-1996
+216,7,217,CAR,donnell baker,WR,,Southern,1996,d,baker,d-baker-1996
+226,7,227,JAX,clarence jones,WR,,Tennessee St.,1996,c,jones,c-jones-1996
+227,7,228,JAX,gregory spann,WR,,Jackson St.,1996,g,spann,g-spann-1996
+249,7,250,WAS,deandre maxwell,WR,,San Diego St.,1996,d,maxwell,d-maxwell-1996
+250,7,251,MIA,brice hunter,WR,22.0,Georgia,1996,b,hunter,b-hunter-1996
+6,1,7,NYG,ike hilliard,WR,21.0,Florida,1997,i,hilliard,i-hilliard-1997
+14,1,15,MIA,yatil green,WR,23.0,Miami (FL),1997,y,green,y-green-1997
+15,1,16,TAM,reidel anthony,WR,20.0,Florida,1997,r,anthony,r-anthony-1997
+26,1,27,CAR,rae carruth,WR,23.0,Colorado,1997,r,carruth,r-carruth-1997
+45,2,46,TEN,joey kent,WR,23.0,Tennessee,1997,j,kent,j-kent-1997
+46,2,47,KAN,kevin lockett,WR,22.0,Kansas St.,1997,k,lockett,k-lockett-1997
+52,2,53,PIT,will blackwell,WR,22.0,San Diego St.,1997,w,blackwell,w-blackwell-1997
+87,3,88,NYJ,dedric ward,WR,22.0,Northern Iowa,1997,d,ward,d-ward-1997
+97,4,98,TEN,derrick mason,WR,23.0,Michigan St.,1997,d,mason,d-mason-1997
+107,4,108,CHI,marcus robinson,WR,22.0,South Carolina,1997,m,robinson,m-robinson-1997
+114,4,115,WAS,albert connell,WR,23.0,Texas A&M,1997,a,connell,a-connell-1997
+115,4,116,NOR,keith poole,WR,23.0,Arizona St.,1997,k,poole,k-poole-1997
+126,4,127,DAL,macey brooks,WR,22.0,James Madison,1997,m,brooks,m-brooks-1997
+138,5,139,ARI,chad carpenter,WR,,Washington St.,1997,c,carpenter,c-carpenter-1997
+149,5,150,IND,nate jacquet,WR,22.0,San Diego St.,1997,n,jacquet,n-jacquet-1997
+169,6,170,MIA,brian manning,WR,22.0,Stanford,1997,b,manning,b-manning-1997
+189,6,190,PHI,antwuan wyatt,WR,22.0,Bethune-Cookman,1997,a,wyatt,a-wyatt-1997
+191,6,192,NWE,tony gaiter,WR,23.0,Miami (FL),1997,t,gaiter,t-gaiter-1997
+194,6,195,KAN,isaac byrd,WR,22.0,Kansas,1997,i,byrd,i-byrd-1997
+196,6,197,TAM,nigea carter,WR,,Michigan St.,1997,n,carter,n-carter-1997
+212,7,213,GNB,chris miller,WR,,USC,1997,c,miller,c-miller-1997
+222,7,223,PIT,mike adams,WR,23.0,Texas,1997,m,adams,m-adams-1997
+231,7,232,DET,marcus harris,WR,,Wyoming,1997,m,harris,m-harris-1997
+234,7,235,MIN,matthew hatchette,WR,23.0,Langston,1997,m,hatchette,m-hatchette-1997
+15,1,16,TEN,kevin dyson,WR,23.0,Utah,1998,k,dyson,k-dyson-1998
+20,1,21,MIN,randy moss,WR,21.0,Marshall,1998,r,moss,r-moss-1998
+29,1,30,DEN,marcus nash,WR,22.0,Tennessee,1998,m,nash,m-nash-1998
+31,2,32,IND,jerome pathon,WR,22.0,Washington,1998,j,pathon,j-pathon-1998
+33,2,34,TAM,jacquez green,WR,22.0,Florida,1998,j,green,j-green-1998
+41,2,42,BAL,patrick johnson,WR,22.0,Oregon,1998,p,johnson,p-johnson-1998
+49,2,50,DET,germane crowell,WR,21.0,Virginia,1998,g,crowell,g-crowell-1998
+51,2,52,NWE,tony simmons,WR,23.0,Wisconsin,1998,t,simmons,t-simmons-1998
+54,2,55,NYG,joe jurevicius,WR,23.0,Penn St.,1998,j,jurevicius,j-jurevicius-1998
+69,3,70,NYG,brian alford,WR,23.0,Purdue,1998,b,alford,b-alford-1998
+70,3,71,IND,e.g. green,WR,23.0,Florida St.,1998,e,green,e-green-1998
+73,3,74,ATL,jammi german,WR,24.0,Miami (FL),1998,j,german,j-german-1998
+81,3,82,MIA,larry shannon,WR,23.0,East Carolina,1998,l,shannon,l-shannon-1998
+91,3,92,PIT,hines ward,WR,22.0,Georgia,1998,h,ward,h-ward-1998
+95,4,96,STL,az-zahir hakim,WR,21.0,San Diego St.,1998,a,hakim,a-hakim-1998
+105,4,106,CAR,donald hayes,WR,23.0,Wisconsin,1998,d,hayes,d-hayes-1998
+113,4,114,ATL,tim dwight,WR,23.0,Iowa,1998,t,dwight,t-dwight-1998
+149,5,150,GNB,corey bradford,WR,22.0,Jackson St.,1998,c,bradford,c-bradford-1998
+159,6,160,BUF,fred coleman,WR,23.0,Washington,1998,f,coleman,f-coleman-1998
+166,6,167,CIN,jason tucker,WR,22.0,TCU,1998,j,tucker,j-tucker-1998
+168,6,169,SEA,bobby shaw,WR,23.0,California,1998,b,shaw,b-shaw-1998
+169,6,170,WAS,patrick palmer,WR,,Northwestern St. (LA),1998,p,palmer,p-palmer-1998
+173,6,174,NYJ,chris brazzell,WR,22.0,Angelo State (TX),1998,c,brazzell,c-brazzell-1998
+191,7,192,JAX,alvis whitted,WR,24.0,North Carolina St.,1998,a,whitted,a-whitted-1998
+192,7,193,ARI,phil savoy,WR,,Colorado,1998,p,savoy,p-savoy-1998
+203,7,204,NOR,andy mccullough,WR,22.0,Tennessee,1998,a,mccullough,a-mccullough-1998
+214,7,215,SFO,ryan thelwell,WR,25.0,Minnesota,1998,r,thelwell,r-thelwell-1998
+227,7,228,CAR,jim turner,WR,,Syracuse,1998,j,turner,j-turner-1998
+233,7,234,SDG,kio sanford,WR,,Kentucky,1998,k,sanford,k-sanford-1998
+237,7,238,BUF,kamil loud,WR,22.0,Cal Poly-San Luis Obispo,1998,k,loud,k-loud-1998
+5,1,6,STL,torry holt,WR,23.0,North Carolina St.,1999,t,holt,t-holt-1999
+7,1,8,ARI,david boston,WR,21.0,Ohio St.,1999,d,boston,d-boston-1999
+12,1,13,PIT,troy edwards,WR,22.0,Louisiana Tech,1999,t,edwards,t-edwards-1999
+31,2,32,CLE,kevin johnson,WR,23.0,Syracuse,1999,k,johnson,k-johnson-1999
+52,2,53,BUF,peerless price,WR,22.0,Tennessee,1999,p,price,p-price-1999
+70,3,71,CHI,d'wayne bates,WR,23.0,Northwestern,1999,d,bates,d-bates-1999
+77,3,78,CHI,marty booker,WR,23.0,La-Monroe,1999,m,booker,m-booker-1999
+81,3,82,SEA,karsten bailey,WR,22.0,Auburn,1999,k,bailey,k-bailey-1999
+92,3,93,DEN,travis mcgriff,WR,23.0,Florida,1999,t,mcgriff,t-mcgriff-1999
+97,4,98,CIN,craig yeast,WR,22.0,Kentucky,1999,c,yeast,c-yeast-1999
+101,4,102,OAK,dameane douglas,WR,23.0,California,1999,d,douglas,d-douglas-1999
+104,4,105,BAL,brandon stokley,WR,23.0,Louisiana,1999,b,stokley,b-stokley-1999
+107,4,108,KAN,larry parker,WR,23.0,USC,1999,l,parker,l-parker-1999
+117,4,118,DAL,wane mcgarity,WR,22.0,Texas,1999,w,mcgarity,w-mcgarity-1999
+129,4,130,PHI,na brown,WR,22.0,North Carolina,1999,n,brown,n-brown-1999
+147,5,148,CLE,darrin chiaverini,WR,21.0,Colorado,1999,d,chiaverini,d-chiaverini-1999
+163,5,164,ATL,eugene baker,WR,23.0,Kent St.,1999,e,baker,e-baker-1999
+165,5,166,PIT,malcolm johnson,WR,22.0,Notre Dame,1999,m,johnson,m-johnson-1999
+170,6,171,SFO,tai streets,WR,22.0,Michigan,1999,t,streets,t-streets-1999
+185,6,186,TEN,darran hall,WR,,Colorado St.,1999,d,hall,d-hall-1999
+192,6,193,DAL,martay jenkins,WR,24.0,Nebraska-Omaha,1999,m,jenkins,m-jenkins-1999
+195,6,196,GNB,dee miller,WR,,Ohio St.,1999,d,miller,d-miller-1999
+200,6,201,PHI,troy smith,WR,22.0,East Carolina,1999,t,smith,t-smith-1999
+203,6,204,DEN,chad plummer,WR,23.0,Cincinnati,1999,c,plummer,c-plummer-1999
+212,7,213,GNB,donald driver,WR,24.0,Alcorn St.,1999,d,driver,d-driver-1999
+216,7,217,WAS,tim alexander,WR,,Oregon St.,1999,t,alexander,t-alexander-1999
+220,7,221,CHI,sulecio sanford,WR,,Middle Tenn. St.,1999,s,sanford,s-sanford-1999
+239,7,240,TAM,darnell mcdonald,WR,23.0,Kansas St.,1999,d,mcdonald,d-mcdonald-1999
+240,7,241,NWE,sean morey,WR,23.0,Brown,1999,s,morey,s-morey-1999
+246,7,247,ATL,rondel menendez,WR,,East. Kentucky,1999,r,menendez,r-menendez-1999
+3,1,4,CIN,peter warrick,WR,23.0,Florida St.,2000,p,warrick,p-warrick-2000
+7,1,8,PIT,plaxico burress,WR,23.0,Michigan St.,2000,p,burress,p-burress-2000
+9,1,10,BAL,travis taylor,WR,22.0,Florida,2000,t,taylor,t-taylor-2000
+20,1,21,KAN,sylvester morris,WR,22.0,Jackson St.,2000,s,morris,s-morris-2000
+28,1,29,JAX,r. jay soward,WR,22.0,USC,2000,r,soward,r-soward-2000
+31,2,32,CLE,dennis northcutt,WR,22.0,Arizona,2000,d,northcutt,d-northcutt-2000
+35,2,36,PHI,todd pinkston,WR,23.0,Southern Miss,2000,t,pinkston,t-pinkston-2000
+46,2,47,OAK,jerry porter,WR,22.0,West Virginia,2000,j,porter,j-porter-2000
+65,3,66,CIN,ron dugans,WR,23.0,Florida St.,2000,r,dugans,r-dugans-2000
+68,3,69,CHI,dez white,WR,21.0,Georgia Tech,2000,d,white,d-white-2000
+69,3,70,DEN,chris cole,WR,22.0,Texas A&M,2000,c,cole,c-cole-2000
+72,3,73,NYG,ron dixon,WR,24.0,Lambuth,2000,r,dixon,r-dixon-2000
+77,3,78,NYJ,laveranues coles,WR,22.0,Florida St.,2000,l,coles,l-coles-2000
+78,3,79,CLE,jajuan dawson,WR,22.0,Tulane,2000,j,dawson,j-dawson-2000
+79,3,80,SEA,darrell jackson,WR,21.0,Florida,2000,d,jackson,d-jackson-2000
+98,4,99,PHI,gari scott,WR,22.0,Michigan St.,2000,g,scott,g-scott-2000
+102,4,103,PIT,danny farmer,WR,23.0,UCLA,2000,d,farmer,d-farmer-2000
+110,4,111,SDG,trevor gaylor,WR,22.0,Miami (OH),2000,t,gaylor,t-gaylor-2000
+113,4,114,GNB,anthony lucas,WR,,Arkansas,2000,a,lucas,a-lucas-2000
+120,4,121,BUF,avion black,WR,23.0,Tennessee St.,2000,a,black,a-black-2000
+142,5,143,NYJ,windrell hayes,WR,23.0,USC,2000,w,hayes,w-hayes-2000
+150,5,151,GNB,joey jamison,WR,,Texas Southern,2000,j,jamison,j-jamison-2000
+152,5,153,KAN,dante hall,WR,21.0,Texas A&M,2000,d,hall,d-hall-2000
+153,5,154,DEN,muneer moore,WR,,Richmond,2000,m,moore,m-moore-2000
+164,5,165,MIN,troy walters,WR,23.0,Stanford,2000,t,walters,t-walters-2000
+169,6,170,CHI,frank murphy,WR,23.0,Kansas St.,2000,f,murphy,f-murphy-2000
+171,6,172,ATL,mareno philyaw,WR,22.0,Troy,2000,m,philyaw,m-philyaw-2000
+174,6,175,SEA,james williams,WR,22.0,Marshall,2000,j,williams,j-williams-2000
+195,6,196,JAX,emanuel smith,WR,24.0,Arkansas,2000,e,smith,e-smith-2000
+199,6,200,NOR,sherrod gideon,WR,,Southern Miss,2000,s,gideon,s-gideon-2000
+207,7,208,KAN,desmond kitchings,WR,,Furman,2000,d,kitchings,d-kitchings-2000
+232,7,233,BUF,drew haddad,WR,22.0,Buffalo,2000,d,haddad,d-haddad-2000
+241,7,242,GNB,charles lee,WR,22.0,Central Florida,2000,c,lee,c-lee-2000
+245,7,246,DEN,leroy fields,WR,,Jackson St.,2000,l,fields,l-fields-2000
+249,7,250,WAS,ethan howell,WR,,Oklahoma St.,2000,e,howell,e-howell-2000
+7,1,8,CHI,david terrell,WR,22.0,Michigan,2001,d,terrell,d-terrell-2001
+8,1,9,SEA,koren robinson,WR,21.0,North Carolina St.,2001,k,robinson,k-robinson-2001
+14,1,15,WAS,rod gardner,WR,23.0,Clemson,2001,r,gardner,r-gardner-2001
+15,1,16,NYJ,santana moss,WR,22.0,Miami (FL),2001,s,moss,s-moss-2001
+24,1,25,PHI,freddie mitchell,WR,22.0,UCLA,2001,f,mitchell,f-mitchell-2001
+29,1,30,IND,reggie wayne,WR,22.0,Miami (FL),2001,r,wayne,r-wayne-2001
+32,2,33,CLE,quincy morgan,WR,23.0,Kansas St.,2001,q,morgan,q-morgan-2001
+35,2,36,CIN,chad johnson,WR,23.0,Oregon St.,2001,c,johnson,c-johnson-2001
+40,2,41,GNB,robert ferguson,WR,21.0,Texas A&M,2001,r,ferguson,r-ferguson-2001
+51,2,52,MIA,chris chambers,WR,23.0,Wisconsin,2001,c,chambers,c-chambers-2001
+73,3,74,CAR,steve smith.,WR,22.0,Utah,2001,s,smith.,s-smith.-2001
+76,3,77,KAN,snoop minnis,WR,24.0,Florida St.,2001,s,minnis,s-minnis-2001
+115,4,116,STL,milton wynn,WR,22.0,Washington St.,2001,m,wynn,m-wynn-2001
+123,4,124,TEN,justin mccareins,WR,22.0,Northern Illinois,2001,j,mccareins,j-mccareins-2001
+130,4,131,MIN,cedric james,WR,22.0,TCU,2001,c,james,c-james-2001
+135,5,136,ATL,vinny sutherland,WR,23.0,Purdue,2001,v,sutherland,v-sutherland-2001
+139,5,140,SEA,alex bannister,WR,22.0,East. Kentucky,2001,a,bannister,a-bannister-2001
+147,5,148,DET,scotty anderson,WR,21.0,Grambling St.,2001,s,anderson,s-anderson-2001
+152,5,153,NOR,onomo ojo,WR,,UC Davis,2001,o,ojo,o-ojo-2001
+153,5,154,WAS,darnerien mccants,WR,24.0,Delaware St.,2001,d,mccants,d-mccants-2001
+158,5,159,TEN,eddie berlin,WR,23.0,Northern Iowa,2001,e,berlin,e-berlin-2001
+161,5,162,NYG,jonathan carter,WR,22.0,Troy,2001,j,carter,j-carter-2001
+165,6,166,ARI,bobby newcombe,WR,,Nebraska,2001,b,newcombe,b-newcombe-2001
+168,6,169,SFO,cedrick wilson,WR,22.0,Tennessee,2001,c,wilson,c-wilson-2001
+189,6,190,DEN,kevin kasper,WR,23.0,Iowa,2001,k,kasper,k-kasper-2001
+196,6,197,STL,francis st. paul,WR,,Northern Arizona,2001,f,paul,f-paul-2001
+203,7,204,CIN,t.j. houshmandzadeh,WR,23.0,Oregon St.,2001,t,houshmandzadeh,t-houshmandzadeh-2001
+207,7,208,CHI,john capel,WR,,Florida,2001,j,capel,j-capel-2001
+213,7,214,BUF,reggie germany,WR,23.0,Ohio St.,2001,r,germany,r-germany-2001
+217,7,218,PIT,chris taylor,WR,22.0,Texas A&M,2001,c,taylor,c-taylor-2001
+228,7,229,OAK,ken-yon rambo,WR,22.0,Ohio St.,2001,k,rambo,k-rambo-2001
+234,7,235,JAX,richmond flowers,WR,,Chattanooga,2001,r,flowers,r-flowers-2001
+235,7,236,ATL,quentin mccord,WR,23.0,Kentucky,2001,q,mccord,q-mccord-2001
+244,7,245,CLE,andre king,WR,27.0,Miami (FL),2001,a,king,a-king-2001
+12,1,13,NOR,donte' stallworth,WR,21.0,Tennessee,2002,d,stallworth,d-stallworth-2002
+18,1,19,DEN,ashley lelie,WR,22.0,Hawaii,2002,a,lelie,a-lelie-2002
+19,1,20,GNB,javon walker,WR,23.0,Florida St.,2002,j,walker,j-walker-2002
+32,2,33,HOU,jabar gaffney,WR,21.0,Florida,2002,j,gaffney,j-gaffney-2002
+35,2,36,BUF,josh reed,WR,22.0,LSU,2002,j,reed,j-reed-2002
+45,2,46,NYG,tim carter,WR,22.0,Auburn,2002,t,carter,t-carter-2002
+46,2,47,CLE,andre' davis,WR,23.0,Virginia Tech,2002,a,davis,a-davis-2002
+47,2,48,SDG,reche caldwell,WR,23.0,Florida,2002,r,caldwell,r-caldwell-2002
+61,2,62,PIT,antwaan randle el,WR,23.0,Indiana,2002,a,el,a-el-2002
+62,2,63,DAL,antonio bryant,WR,21.0,Pittsburgh,2002,a,bryant,a-bryant-2002
+64,2,65,NWE,deion branch,WR,23.0,Louisville,2002,d,branch,d-branch-2002
+85,3,86,TAM,marquis walker,WR,,Michigan,2002,m,walker,m-walker-2002
+86,3,87,WAS,cliff russell,WR,23.0,Utah,2002,c,russell,c-russell-2002
+94,3,95,STL,eric crouch,WR,,Nebraska,2002,e,crouch,e-crouch-2002
+122,4,123,BAL,ron johnson,WR,22.0,Minnesota,2002,r,johnson,r-johnson-2002
+141,5,142,SDG,terry charles,WR,,Portland St.,2002,t,charles,t-charles-2002
+143,5,144,DEN,herb haygood,WR,24.0,Michigan St.,2002,h,haygood,h-haygood-2002
+148,5,149,ARI,jason mcaddley,WR,23.0,Alabama,2002,j,mcaddley,j-mcaddley-2002
+150,5,151,TEN,jake schifino,WR,22.0,Akron,2002,j,schifino,j-schifino-2002
+161,5,162,PHI,freddie milons,WR,,Alabama,2002,f,milons,f-milons-2002
+169,5,170,MIA,sam simmons,WR,22.0,Northwestern,2002,s,simmons,s-simmons-2002
+183,6,184,ATL,kahlil hill,WR,23.0,Iowa,2002,k,hill,k-hill-2002
+201,6,202,PIT,lee mays,WR,23.0,Texas-El Paso,2002,l,mays,l-mays-2002
+202,6,203,CHI,jamin elliott,WR,22.0,Delaware,2002,j,elliott,j-elliott-2002
+205,6,206,BAL,javin hunter,WR,22.0,Notre Dame,2002,j,hunter,j-hunter-2002
+207,6,208,DAL,deveren johnson,WR,,Sacred Heart,2002,d,johnson,d-johnson-2002
+216,7,217,ATL,michael coleman,WR,,Widener,2002,m,coleman,m-coleman-2002
+221,7,222,JAX,kendall newson,WR,22.0,Middle Tenn. St.,2002,k,newson,k-newson-2002
+224,7,225,TEN,darrell hill,WR,23.0,Northern Illinois,2002,d,hill,d-hill-2002
+225,7,226,NYG,daryl jones,WR,23.0,Miami (FL),2002,d,jones,d-jones-2002
+234,7,235,OAK,ronald curry,WR,23.0,North Carolina,2002,r,curry,r-curry-2002
+248,7,249,BUF,rodney wright,WR,,Fresno St.,2002,r,wright,r-wright-2002
+252,7,253,NWE,david givens,WR,22.0,Notre Dame,2002,d,givens,d-givens-2002
+253,7,254,TAM,aaron lockett,WR,,Kansas St.,2002,a,lockett,a-lockett-2002
+1,1,2,DET,charles rogers,WR,22.0,Michigan St.,2003,c,rogers,c-rogers-2003
+2,1,3,HOU,andre johnson,WR,22.0,Miami (FL),2003,a,johnson,a-johnson-2003
+16,1,17,ARI,bryant johnson,WR,22.0,Penn St.,2003,b,johnson,b-johnson-2003
+43,2,44,WAS,taylor jacobs,WR,22.0,Florida,2003,t,jacobs,t-jacobs-2003
+44,2,45,NWE,bethel johnson,WR,24.0,Texas A&M,2003,b,johnson,b-johnson-2003
+53,2,54,ARI,anquan boldin,WR,22.0,Florida St.,2003,a,boldin,a-boldin-2003
+59,2,60,TEN,tyrone calico,WR,22.0,Middle Tenn. St.,2003,t,calico,t-calico-2003
+64,3,65,CIN,kelley washington,WR,24.0,Tennessee,2003,k,washington,k-washington-2003
+70,3,71,MIN,nate burleson,WR,22.0,Nevada,2003,n,burleson,n-burleson-2003
+73,3,74,STL,kevin curtis,WR,25.0,Utah St.,2003,k,curtis,k-curtis-2003
+94,3,95,PHI,billy mcmullen,WR,23.0,Virginia,2003,b,mcmullen,b-mcmullen-2003
+105,4,106,STL,shaun mcdonald,WR,22.0,Arizona St.,2003,s,mcdonald,s-mcdonald-2003
+123,4,124,SFO,brandon lloyd,WR,22.0,Illinois,2003,b,lloyd,b-lloyd-2003
+126,4,127,BUF,sam aiken,WR,22.0,North Carolina,2003,s,aiken,s-aiken-2003
+138,5,139,CHI,bobby wade,WR,22.0,Arizona,2003,b,wade,b-wade-2003
+142,5,143,CHI,justin gage,WR,22.0,Missouri,2003,j,gage,j-gage-2003
+157,5,158,DEN,adrian madise,WR,23.0,TCU,2003,a,madise,a-madise-2003
+158,5,159,ATL,jon olinger,WR,,Cincinnati,2003,j,olinger,j-olinger-2003
+166,5,167,OAK,doug gabriel,WR,23.0,Central Florida,2003,d,gabriel,d-gabriel-2003
+168,5,169,MIA,j.r. tolver,WR,,San Diego St.,2003,j,tolver,j-tolver-2003
+174,6,175,DET,david kircus,WR,23.0,Grand Valley St.,2003,d,kircus,d-kircus-2003
+185,6,186,DAL,zuriel smith,WR,23.0,Hampton,2003,z,smith,z-smith-2003
+195,6,196,ATL,latarence dunbar,WR,23.0,TCU,2003,l,dunbar,l-dunbar-2003
+196,6,197,SFO,arnaz battle,WR,23.0,Notre Dame,2003,a,battle,a-battle-2003
+198,6,199,NYG,willie ponder,WR,23.0,SE Missouri St.,2003,w,ponder,w-ponder-2003
+202,6,203,NOR,kareem kelly,WR,,USC,2003,k,kelly,k-kelly-2003
+210,6,211,NYG,david tyree,WR,23.0,Syracuse,2003,d,tyree,d-tyree-2003
+220,7,221,MIN,keenan howry,WR,22.0,Oregon,2003,k,howry,k-howry-2003
+223,7,224,SEA,taco wallace,WR,22.0,Kansas St.,2003,t,wallace,t-wallace-2003
+225,7,226,CAR,walter young,WR,23.0,Illinois,2003,w,young,w-young-2003
+230,7,231,NOR,talman gardner,WR,23.0,Florida St.,2003,t,gardner,t-gardner-2003
+252,7,253,GNB,deandrew rubin,WR,,South Florida,2003,d,rubin,d-rubin-2003
+254,7,255,NYG,kevin walter,WR,22.0,East. Michigan,2003,k,walter,k-walter-2003
+255,7,256,GNB,carl ford,WR,22.0,Toledo,2003,c,ford,c-ford-2003
+259,7,260,DET,travis anglin,WR,,Memphis,2003,t,anglin,t-anglin-2003
+261,7,262,OAK,ryan hoag,WR,,Gustavus Adolphus,2003,r,hoag,r-hoag-2003
+2,1,3,ARI,larry fitzgerald,WR,21.0,Pittsburgh,2004,l,fitzgerald,l-fitzgerald-2004
+6,1,7,DET,roy williams,WR,22.0,Texas,2004,r,williams,r-williams-2004
+8,1,9,JAX,reggie williams,WR,21.0,Washington,2004,r,williams,r-williams-2004
+12,1,13,BUF,lee evans,WR,23.0,Wisconsin,2004,l,evans,l-evans-2004
+14,1,15,TAM,michael clayton,WR,21.0,LSU,2004,m,clayton,m-clayton-2004
+28,1,29,ATL,michael jenkins,WR,22.0,Ohio St.,2004,m,jenkins,m-jenkins-2004
+30,1,31,SFO,rashaun woods,WR,23.0,Oklahoma St.,2004,r,woods,r-woods-2004
+49,2,50,NOR,devery henderson,WR,22.0,LSU,2004,d,henderson,d-henderson-2004
+53,2,54,DEN,darius watts,WR,22.0,Marshall,2004,d,watts,d-watts-2004
+61,2,62,CAR,keary colbert,WR,22.0,USC,2004,k,colbert,k-colbert-2004
+76,3,77,SFO,derrick hamilton,WR,22.0,Clemson,2004,d,hamilton,d-hamilton-2004
+77,3,78,CHI,bernard berrian,WR,23.0,Fresno St.,2004,b,berrian,b-berrian-2004
+81,3,82,BAL,devard darling,WR,22.0,Washington St.,2004,d,darling,d-darling-2004
+98,4,99,OAK,carlos francis,WR,23.0,Texas Tech,2004,c,francis,c-francis-2004
+104,4,105,KAN,samie parker,WR,23.0,Oregon,2004,s,parker,s-parker-2004
+107,4,108,NYJ,jerricho cotchery,WR,22.0,North Carolina St.,2004,j,cotchery,j-cotchery-2004
+119,4,120,JAX,ernest wilford,WR,25.0,Virginia Tech,2004,e,wilford,e-wilford-2004
+133,5,134,OAK,johnnie morant,WR,22.0,Syracuse,2004,j,morant,j-morant-2004
+148,5,149,CIN,maurice mann,WR,21.0,Nevada,2004,m,mann,m-mann-2004
+156,5,157,SEA,d.j. hackett,WR,23.0,Colorado,2004,d,hackett,d-hackett-2004
+162,5,163,CAR,drew carter,WR,23.0,Ohio St.,2004,d,carter,d-carter-2004
+163,5,164,NWE,p.k. sam,WR,20.0,Florida St.,2004,p,sam,p-sam-2004
+167,6,168,NYG,jamaar taylor,WR,23.0,Texas A&M,2004,j,taylor,j-taylor-2004
+170,6,171,DEN,triandos luke,WR,22.0,Alabama,2004,t,luke,t-luke-2004
+194,6,195,KAN,jeris mcintyre,WR,,Auburn,2004,j,mcintyre,j-mcintyre-2004
+198,6,199,BAL,clarence moore,WR,21.0,Northern Arizona,2004,c,moore,c-moore-2004
+205,7,206,TAM,mark jones,WR,23.0,Tennessee,2004,m,jones,m-jones-2004
+210,7,211,HOU,sloan thomas,WR,22.0,Texas,2004,s,thomas,s-thomas-2004
+213,7,214,BUF,jonathan smith,WR,22.0,Georgia Tech,2004,j,smith,j-smith-2004
+215,7,216,DAL,patrick crayton,WR,25.0,NW Oklahoma St.,2004,p,crayton,p-crayton-2004
+243,7,244,BAL,derek abney,WR,,Kentucky,2004,d,abney,d-abney-2004
+2,1,3,CLE,braylon edwards,WR,22.0,Michigan,2005,b,edwards,b-edwards-2005
+6,1,7,MIN,troy williamson,WR,22.0,South Carolina,2005,t,williamson,t-williamson-2005
+9,1,10,DET,mike williams,WR,21.0,USC,2005,m,williams,m-williams-2005
+20,1,21,JAX,matt jones,WR,22.0,Arkansas,2005,m,jones,m-jones-2005
+21,1,22,BAL,mark clayton,WR,23.0,Oklahoma,2005,m,clayton,m-clayton-2005
+26,1,27,ATL,roddy white,WR,23.0,Ala-Birmingham,2005,r,white,r-white-2005
+34,2,35,PHI,reggie brown,WR,24.0,Georgia,2005,r,brown,r-brown-2005
+38,2,39,CHI,mark bradley,WR,23.0,Oklahoma,2005,m,bradley,m-bradley-2005
+54,2,55,BUF,roscoe parrish,WR,23.0,Miami (FL),2005,r,parrish,r-parrish-2005
+57,2,58,GNB,terrence murphy,WR,22.0,Texas A&M,2005,t,murphy,t-murphy-2005
+60,2,61,SDG,vincent jackson,WR,22.0,Northern Colorado,2005,v,jackson,v-jackson-2005
+67,3,68,TEN,courtney roby,WR,22.0,Indiana,2005,c,roby,c-roby-2005
+82,3,83,CIN,chris henry,WR,22.0,West Virginia,2005,c,henry,c-henry-2005
+95,3,96,TEN,brandon jones,WR,23.0,Oklahoma,2005,b,jones,b-jones-2005
+113,4,114,HOU,jerome mathis,WR,22.0,Hampton,2005,j,mathis,j-mathis-2005
+115,4,116,KAN,craphonso thorpe,WR,22.0,Florida St.,2005,c,thorpe,c-thorpe-2005
+117,4,118,NOR,chase lyman,WR,,California,2005,c,lyman,c-lyman-2005
+130,4,131,PIT,fred gibson,WR,,Georgia,2005,f,gibson,f-gibson-2005
+135,4,136,TEN,roydell williams,WR,24.0,Tulane,2005,r,williams,r-williams-2005
+139,5,140,CHI,airese currie,WR,22.0,Clemson,2005,a,currie,a-currie-2005
+154,5,155,TAM,larry brackins,WR,,Pearl River CC,2005,l,brackins,l-brackins-2005
+173,5,174,SFO,rasheed marshall,WR,24.0,West Virginia,2005,r,marshall,r-marshall-2005
+184,6,185,JAX,chad owens,WR,23.0,Hawaii,2005,c,owens,c-owens-2005
+189,6,190,CIN,tab perry,WR,23.0,UCLA,2005,t,perry,t-perry-2005
+191,6,192,STL,dante ridgeway,WR,21.0,Ball St.,2005,d,ridgeway,d-ridgeway-2005
+194,6,195,GNB,craig bragg,WR,,UCLA,2005,c,bragg,c-bragg-2005
+222,7,223,SFO,marcus maxwell,WR,22.0,Oregon,2005,m,maxwell,m-maxwell-2005
+224,7,225,TAM,paris warren,WR,23.0,Utah,2005,p,warren,p-warren-2005
+225,7,226,ARI,leron mccoy,WR,23.0,Indiana (PA),2005,l,mccoy,l-mccoy-2005
+239,7,240,NYJ,harry williams,WR,23.0,Tuskegee,2005,h,williams,h-williams-2005
+252,7,253,TAM,j.r. russell,WR,,Louisville,2005,j,russell,j-russell-2005
+24,1,25,PIT,santonio holmes,WR,22.0,Ohio St.,2006,s,holmes,s-holmes-2006
+35,2,36,NWE,chad jackson,WR,21.0,Florida,2006,c,jackson,c-jackson-2006
+43,2,44,NYG,sinorice moss,WR,22.0,Miami (FL),2006,s,moss,s-moss-2006
+51,2,52,GNB,greg jennings,WR,22.0,Western Michigan,2006,g,jennings,g-jennings-2006
+77,3,78,CLE,travis wilson,WR,22.0,Oklahoma,2006,t,wilson,t-wilson-2006
+81,3,82,MIA,derek hagan,WR,21.0,Arizona St.,2006,d,hagan,d-hagan-2006
+83,3,84,SFO,brandon williams,WR,22.0,Wisconsin,2006,b,williams,b-williams-2006
+89,3,90,TAM,maurice stovall,WR,21.0,Notre Dame,2006,m,stovall,m-stovall-2006
+94,3,95,PIT,willie reid,WR,23.0,Florida St.,2006,w,reid,w-reid-2006
+99,4,100,SFO,michael robinson,WR,23.0,Penn St.,2006,m,robinson,m-robinson-2006
+103,4,104,GNB,cory rodgers,WR,,TCU,2006,c,rodgers,c-rodgers-2006
+108,4,109,PHI,jason avant,WR,23.0,Michigan,2006,j,avant,j-avant-2006
+110,4,111,BAL,demetrius williams,WR,23.0,Oregon,2006,d,williams,d-williams-2006
+118,4,119,DEN,brandon marshall,WR,22.0,Central Florida,2006,b,marshall,b-marshall-2006
+124,4,125,DAL,skyler green,WR,21.0,LSU,2006,s,green,s-green-2006
+129,4,130,DEN,domenik hixon,WR,21.0,Akron,2006,d,hixon,d-hixon-2006
+143,5,144,STL,marques hagans,WR,23.0,Virginia,2006,m,hagans,m-hagans-2006
+170,6,171,NOR,mike hass,WR,23.0,Oregon St.,2006,m,hass,m-hass-2006
+171,6,172,TEN,jonathan orr,WR,,Wisconsin,2006,j,orr,j-orr-2006
+174,6,175,SFO,delanie walker,WR,22.0,Central Missouri St.,2006,d,walker,d-walker-2006
+183,6,184,ATL,adam jennings,WR,23.0,Fresno St.,2006,a,jennings,a-jennings-2006
+189,6,190,KAN,jeff webb,WR,24.0,San Diego St.,2006,j,webb,j-webb-2006
+208,7,209,CIN,ethan kilmer,WR,23.0,Penn St.,2006,e,kilmer,e-kilmer-2006
+217,7,218,ARI,todd watkins,WR,23.0,BYU,2006,t,watkins,t-watkins-2006
+230,7,231,CIN,bennie brazell,WR,,LSU,2006,b,brazell,b-brazell-2006
+232,7,233,MIA,devin aromashodu,WR,22.0,Auburn,2006,d,aromashodu,d-aromashodu-2006
+248,7,249,SEA,ben obomanu,WR,22.0,Auburn,2006,b,obomanu,b-obomanu-2006
+250,7,251,HOU,david anderson,WR,23.0,Colorado St.,2006,d,anderson,d-anderson-2006
+251,7,252,NOR,marques colston,WR,23.0,Hofstra,2006,m,colston,m-colston-2006
+254,7,255,OAK,kevin mcmahan,WR,,Maine,2006,k,mcmahan,k-mcmahan-2006
+1,1,2,DET,calvin johnson,WR,21.0,Georgia Tech,2007,c,johnson,c-johnson-2007
+8,1,9,MIA,ted ginn,WR,22.0,Ohio St.,2007,t,ginn,t-ginn-2007
+22,1,23,KAN,dwayne bowe,WR,22.0,LSU,2007,d,bowe,d-bowe-2007
+26,1,27,NOR,robert meachem,WR,22.0,Tennessee,2007,r,meachem,r-meachem-2007
+29,1,30,SDG,craig davis,WR,21.0,LSU,2007,c,davis,c-davis-2007
+31,1,32,IND,anthony gonzalez,WR,22.0,Ohio St.,2007,a,gonzalez,a-gonzalez-2007
+43,2,44,MIN,sidney rice,WR,21.0,South Carolina,2007,s,rice,s-rice-2007
+44,2,45,CAR,dwayne jarrett,WR,20.0,USC,2007,d,jarrett,d-jarrett-2007
+50,2,51,NYG,steve smith,WR,22.0,USC,2007,s,smith,s-smith-2007
+72,3,73,HOU,jacoby jones,WR,23.0,Lane,2007,j,jones,j-jones-2007
+73,3,74,BAL,yamon figurs,WR,24.0,Kansas St.,2007,y,figurs,y-figurs-2007
+74,3,75,ATL,laurent robinson,WR,22.0,Illinois St.,2007,l,robinson,l-robinson-2007
+75,3,76,SFO,jason hill,WR,22.0,Washington St.,2007,j,hill,j-hill-2007
+77,3,78,GNB,james jones,WR,23.0,San Jose St.,2007,j,jones,j-jones-2007
+78,3,79,JAX,mike sims-walker,WR,22.0,Central Florida,2007,m,sims-walker,m-sims-walker-2007
+79,3,80,TEN,paul williams,WR,23.0,Fresno St.,2007,p,williams,p-williams-2007
+98,3,99,OAK,johnnie lee higgins,WR,23.0,Texas-El Paso,2007,j,higgins,j-higgins-2007
+117,4,118,CAR,ryne robinson,WR,22.0,Miami (OH),2007,r,robinson,r-robinson-2007
+127,4,128,TEN,chris davis,WR,23.0,Florida St.,2007,c,davis,c-davis-2007
+141,5,142,ARI,steve breaston,WR,24.0,Michigan,2007,s,breaston,s-breaston-2007
+145,5,146,MIN,aundrae allison,WR,21.0,East Carolina,2007,a,allison,a-allison-2007
+156,5,157,GNB,david clowney,WR,22.0,Virginia Tech,2007,d,clowney,d-clowney-2007
+168,5,169,IND,roy hall,WR,23.0,Ohio St.,2007,r,hall,r-hall-2007
+171,5,172,SDG,legedu naanee,WR,23.0,Boise St.,2007,l,naanee,l-naanee-2007
+187,6,188,TEN,joel filani,WR,,Texas Tech,2007,j,filani,j-filani-2007
+196,6,197,SEA,courtney taylor,WR,23.0,Auburn,2007,c,taylor,c-taylor-2007
+209,6,210,SEA,jordan kent,WR,23.0,Oregon,2007,j,kent,j-kent-2007
+226,7,227,PIT,dallas baker,WR,24.0,Florida,2007,d,baker,d-baker-2007
+228,7,229,JAX,john broussard,WR,23.0,San Jose St.,2007,j,broussard,j-broussard-2007
+232,7,233,MIN,chandler williams,WR,,Florida International,2007,c,williams,c-williams-2007
+233,7,234,CLE,syndric steptoe,WR,22.0,Arizona,2007,s,steptoe,s-steptoe-2007
+234,7,235,NYJ,chansi stuckey,WR,23.0,Clemson,2007,c,stuckey,c-stuckey-2007
+248,7,249,STL,derek stanley,WR,22.0,Wisconsin–Whitewater,2007,d,stanley,d-stanley-2007
+253,7,254,OAK,jonathan holland,WR,22.0,Louisiana Tech,2007,j,holland,j-holland-2007
+32,2,33,STL,donnie avery,WR,24.0,Houston,2008,d,avery,d-avery-2008
+33,2,34,WAS,devin thomas,WR,21.0,Michigan St.,2008,d,thomas,d-thomas-2008
+35,2,36,GNB,jordy nelson,WR,23.0,Kansas St.,2008,j,nelson,j-nelson-2008
+40,2,41,BUF,james hardy,WR,22.0,Indiana,2008,j,hardy,j-hardy-2008
+41,2,42,DEN,eddie royal,WR,22.0,Virginia Tech,2008,e,royal,e-royal-2008
+45,2,46,CIN,jerome simpson,WR,22.0,Coastal Carolina,2008,j,simpson,j-simpson-2008
+48,2,49,PHI,desean jackson,WR,21.0,California,2008,d,jackson,d-jackson-2008
+50,2,51,WAS,malcolm kelly,WR,21.0,Oklahoma,2008,m,kelly,m-kelly-2008
+52,2,53,PIT,limas sweed,WR,23.0,Texas,2008,l,sweed,l-sweed-2008
+57,2,58,TAM,dexter jackson,WR,22.0,Appalachian St.,2008,d,jackson,d-jackson-2008
+69,3,70,CHI,earl bennett,WR,21.0,Vanderbilt,2008,e,bennett,e-bennett-2008
+80,3,81,ARI,early doucet,WR,22.0,LSU,2008,e,doucet,e-doucet-2008
+83,3,84,ATL,harry douglas,WR,23.0,Louisville,2008,h,douglas,h-douglas-2008
+94,3,95,NYG,mario manningham,WR,22.0,Michigan,2008,m,manningham,m-manningham-2008
+96,3,97,CIN,andre caldwell,WR,23.0,Florida,2008,a,caldwell,a-caldwell-2008
+104,4,105,KAN,will franklin,WR,22.0,Missouri,2008,w,franklin,w-franklin-2008
+105,4,106,BAL,marcus smith,WR,23.0,New Mexico,2008,m,smith,m-smith-2008
+124,4,125,OAK,arman shields,WR,23.0,Richmond,2008,a,shields,a-shields-2008
+125,4,126,TEN,lavelle hawkins,WR,22.0,California,2008,l,hawkins,l-hawkins-2008
+127,4,128,STL,keenan burton,WR,23.0,Kentucky,2008,k,burton,k-burton-2008
+135,5,136,DET,kenny moore,WR,23.0,Wake Forest,2008,k,moore,k-moore-2008
+152,5,153,NWE,matthew slater,WR,22.0,UCLA,2008,m,slater,m-slater-2008
+170,6,171,NYJ,marcus henry,WR,22.0,Kansas,2008,m,henry,m-henry-2008
+173,6,174,SFO,josh morgan,WR,23.0,Virginia Tech,2008,j,morgan,j-morgan-2008
+181,6,182,KAN,kevin robinson,WR,23.0,Utah St.,2008,k,robinson,k-robinson-2008
+190,6,191,CLE,paul hubbard,WR,23.0,Wisconsin,2008,p,hubbard,p-hubbard-2008
+192,6,193,MIN,jaymar johnson,WR,24.0,Jackson St.,2008,j,johnson,j-johnson-2008
+204,6,205,IND,pierre garcon,WR,22.0,Mount Union,2008,p,garcon,p-garcon-2008
+214,7,215,BAL,justin harper,WR,23.0,Virginia Tech,2008,j,harper,j-harper-2008
+216,7,217,GNB,brett swain,WR,23.0,San Diego St.,2008,b,swain,b-swain-2008
+223,7,224,BUF,steve johnson,WR,21.0,Kentucky,2008,s,johnson,s-johnson-2008
+225,7,226,OAK,chaz schilens,WR,22.0,San Diego St.,2008,c,schilens,c-schilens-2008
+236,7,237,NOR,adrian arrington,WR,22.0,Michigan,2008,a,arrington,a-arrington-2008
+245,7,246,CIN,mario urrutia,WR,22.0,Louisville,2008,m,urrutia,m-urrutia-2008
+247,7,248,CHI,marcus monk,WR,22.0,Arkansas,2008,m,monk,m-monk-2008
+6,1,7,OAK,darrius heyward-bey,WR,22.0,Maryland,2009,d,heyward-bey,d-heyward-bey-2009
+9,1,10,SFO,michael crabtree,WR,21.0,Texas Tech,2009,m,crabtree,m-crabtree-2009
+18,1,19,PHI,jeremy maclin,WR,21.0,Missouri,2009,j,maclin,j-maclin-2009
+21,1,22,MIN,percy harvin,WR,21.0,Florida,2009,p,harvin,p-harvin-2009
+28,1,29,NYG,hakeem nicks,WR,21.0,North Carolina,2009,h,nicks,h-nicks-2009
+29,1,30,TEN,kenny britt,WR,20.0,Rutgers,2009,k,britt,k-britt-2009
+35,2,36,CLE,brian robiskie,WR,21.0,Ohio St.,2009,b,robiskie,b-robiskie-2009
+49,2,50,CLE,mohamed massaquoi,WR,22.0,Georgia,2009,m,massaquoi,m-massaquoi-2009
+81,3,82,DET,derrick williams,WR,23.0,Penn St.,2009,d,williams,d-williams-2009
+82,3,83,NWE,brandon tate,WR,21.0,North Carolina,2009,b,tate,b-tate-2009
+83,3,84,PIT,mike wallace,WR,23.0,Mississippi,2009,m,wallace,m-wallace-2009
+84,3,85,NYG,ramses barden,WR,23.0,Cal Poly-San Luis Obispo,2009,r,barden,r-barden-2009
+86,3,87,MIA,patrick turner,WR,22.0,USC,2009,p,turner,p-turner-2009
+90,3,91,SEA,deon butler,WR,23.0,Penn St.,2009,d,butler,d-butler-2009
+98,3,99,CHI,juaquin iglesias,WR,22.0,Oklahoma,2009,j,iglesias,j-iglesias-2009
+106,4,107,JAX,mike thomas,WR,22.0,Arizona,2009,m,thomas,m-thomas-2009
+107,4,108,MIA,brian hartline,WR,22.0,Ohio St.,2009,b,hartline,b-hartline-2009
+123,4,124,OAK,louis murphy,WR,22.0,Florida,2009,l,murphy,l-murphy-2009
+126,4,127,IND,austin collie,WR,23.0,BYU,2009,a,collie,a-collie-2009
+139,5,140,CHI,johnny knox,WR,22.0,Abilene Christian,2009,j,knox,j-knox-2009
+140,5,141,DEN,kenny mckinley,WR,22.0,South Carolina,2009,k,mckinley,k-mckinley-2009
+143,5,144,JAX,jarett dillard,WR,23.0,Rice,2009,j,dillard,j-dillard-2009
+159,5,160,STL,brooks foster,WR,23.0,North Carolina,2009,b,foster,b-foster-2009
+174,6,175,KAN,quinten lawrence,WR,24.0,McNeese St.,2009,q,lawrence,q-lawrence-2009
+193,6,194,PHI,brandon gibson,WR,22.0,Washington St.,2009,b,gibson,b-gibson-2009
+205,6,206,TEN,dominique edison,WR,23.0,S.F. Austin,2009,d,edison,d-edison-2009
+223,7,224,SDG,demetrius byrd,WR,,LSU,2009,d,byrd,d-byrd-2009
+228,7,229,DAL,manuel johnson,WR,22.0,Oklahoma,2009,m,johnson,m-johnson-2009
+231,7,232,NWE,julian edelman,WR,23.0,Kent St.,2009,j,edelman,j-edelman-2009
+232,7,233,TAM,sammie stroughter,WR,23.0,Oregon St.,2009,s,stroughter,s-stroughter-2009
+242,7,243,WAS,marko mitchell,WR,24.0,Nevada,2009,m,mitchell,m-mitchell-2009
+250,7,251,CHI,derek kinder,WR,,Pittsburgh,2009,d,kinder,d-kinder-2009
+251,7,252,CIN,freddie brown,WR,,Utah,2009,f,brown,f-brown-2009
+252,7,253,JAX,tiquan underwood,WR,22.0,Rutgers,2009,t,underwood,t-underwood-2009
+21,1,22,DEN,demaryius thomas,WR,22.0,Georgia Tech,2010,d,thomas,d-thomas-2010
+23,1,24,DAL,dez bryant,WR,21.0,Oklahoma St.,2010,d,bryant,d-bryant-2010
+35,2,36,KAN,dexter mccluster,WR,21.0,Mississippi,2010,d,mccluster,d-mccluster-2010
+38,2,39,TAM,arrelious benn,WR,21.0,Illinois,2010,a,benn,a-benn-2010
+59,2,60,SEA,golden tate,WR,22.0,Notre Dame,2010,g,tate,g-tate-2010
+76,3,77,TEN,damian williams,WR,22.0,USC,2010,d,williams,d-williams-2010
+77,3,78,CAR,brandon lafell,WR,23.0,LSU,2010,b,lafell,b-lafell-2010
+81,3,82,PIT,emmanuel sanders,WR,23.0,SMU,2010,e,sanders,e-sanders-2010
+83,3,84,CIN,jordan shipley,WR,24.0,Texas,2010,j,shipley,j-shipley-2010
+86,3,87,DEN,eric decker,WR,23.0,Minnesota,2010,e,decker,e-decker-2010
+87,3,88,ARI,andre roberts,WR,22.0,The Citadel,2010,a,roberts,a-roberts-2010
+88,3,89,CAR,armanti edwards,WR,22.0,Appalachian St.,2010,a,edwards,a-edwards-2010
+89,3,90,NWE,taylor price,WR,22.0,Ohio,2010,t,price,t-price-2010
+98,4,99,STL,mardy gilyard,WR,23.0,Cincinnati,2010,m,gilyard,m-gilyard-2010
+100,4,101,TAM,mike williams,WR,23.0,Syracuse,2010,m,williams,m-williams-2010
+106,4,107,BUF,marcus easley,WR,22.0,Connecticut,2010,m,easley,m-easley-2010
+107,4,108,OAK,jacoby ford,WR,23.0,Clemson,2010,j,ford,j-ford-2010
+155,5,156,BAL,david reed,WR,23.0,Utah,2010,d,reed,d-reed-2010
+158,5,159,PHI,riley cooper,WR,22.0,Florida,2010,r,cooper,r-cooper-2010
+164,5,165,ATL,kerry meier,WR,23.0,Kansas,2010,k,meier,k-meier-2010
+176,6,177,CLE,carlton mitchell,WR,22.0,South Florida,2010,c,mitchell,c-mitchell-2010
+190,6,191,CIN,dezmon briscoe,WR,21.0,Kansas,2010,d,briscoe,d-briscoe-2010
+194,6,195,PIT,antonio brown,WR,22.0,Central Michigan,2010,a,brown,a-brown-2010
+196,6,197,HOU,trindon holliday,WR,24.0,LSU,2010,t,holliday,t-holliday-2010
+197,6,198,CAR,david gettis,WR,23.0,Baylor,2010,d,gettis,d-gettis-2010
+198,6,199,MIN,joe webb,WR,23.0,Ala-Birmingham,2010,j,webb,j-webb-2010
+205,6,206,SFO,kyle williams,WR,22.0,Arizona St.,2010,k,williams,k-williams-2010
+218,7,219,WAS,terrence austin,WR,22.0,UCLA,2010,t,austin,t-austin-2010
+221,7,222,TEN,marc mariani,WR,23.0,Montana,2010,m,mariani,m-mariani-2010
+226,7,227,HOU,dorin dickerson,WR,22.0,Pittsburgh,2010,d,dickerson,d-dickerson-2010
+254,7,255,DET,tim toone,WR,25.0,Weber St.,2010,t,toone,t-toone-2010
+3,1,4,CIN,a.j. green,WR,23.0,Georgia,2011,a,green,a-green-2011
+5,1,6,ATL,julio jones,WR,22.0,Alabama,2011,j,jones,j-jones-2011
+25,1,26,KAN,jonathan baldwin,WR,22.0,Pittsburgh,2011,j,baldwin,j-baldwin-2011
+43,2,44,DET,titus young,WR,22.0,Boise St.,2011,t,young,t-young-2011
+57,2,58,BAL,torrey smith,WR,22.0,Maryland,2011,t,smith,t-smith-2011
+58,2,59,CLE,greg little,WR,22.0,North Carolina,2011,g,little,g-little-2011
+63,2,64,GNB,randall cobb,WR,21.0,Kentucky,2011,r,cobb,r-cobb-2011
+77,3,78,STL,austin pettis,WR,23.0,Boise St.,2011,a,pettis,a-pettis-2011
+78,3,79,WAS,leonard hankerson,WR,22.0,Miami (FL),2011,l,hankerson,l-hankerson-2011
+81,3,82,SDG,vincent brown,WR,22.0,San Diego St.,2011,v,brown,v-brown-2011
+82,3,83,NYG,jerrel jernigan,WR,22.0,Troy,2011,j,jernigan,j-jernigan-2011
+106,4,107,SEA,kris durham,WR,23.0,Georgia,2011,k,durham,k-durham-2011
+110,4,111,MIA,clyde gates,WR,25.0,Abilene Christian,2011,c,gates,c-gates-2011
+111,4,112,STL,greg salas,WR,23.0,Hawaii,2011,g,salas,g-salas-2011
+113,4,114,JAX,cecil shorts,WR,23.0,Mount Union,2011,c,shorts,c-shorts-2011
+122,4,123,BAL,tandon doss,WR,21.0,Indiana,2011,t,doss,t-doss-2011
+131,5,132,CAR,kealoha pilares,WR,23.0,Hawaii,2011,k,pilares,k-pilares-2011
+147,5,148,OAK,denarius moore,WR,22.0,Tennessee,2011,d,moore,d-moore-2011
+152,5,153,NYJ,jeremy kerley,WR,22.0,TCU,2011,j,kerley,j-kerley-2011
+154,5,155,WAS,niles paul,WR,22.0,Nebraska,2011,n,paul,n-paul-2011
+166,6,167,CIN,ryan whalen,WR,22.0,Stanford,2011,r,whalen,r-whalen-2011
+175,6,176,DAL,dwayne harris,WR,23.0,East Carolina,2011,d,harris,d-harris-2011
+177,6,178,WAS,aldrick robinson,WR,22.0,SMU,2011,a,robinson,a-robinson-2011
+181,6,182,SFO,ronald johnson,WR,23.0,USC,2011,r,johnson,r-johnson-2011
+226,7,227,NYJ,scotty mcknight,WR,23.0,Colorado,2011,s,mcknight,s-mcknight-2011
+235,7,236,MIN,stephen burton,WR,21.0,Long Beach CC,2011,s,burton,s-burton-2011
+240,7,241,OAK,david ausberry,WR,23.0,USC,2011,d,ausberry,d-ausberry-2011
+248,7,249,ARI,demarco sampson,WR,25.0,San Diego St.,2011,d,sampson,d-sampson-2011
+4,1,5,JAX,justin blackmon,WR,22.0,Oklahoma St.,2012,j,blackmon,j-blackmon-2012
+12,1,13,ARI,michael floyd,WR,22.0,Notre Dame,2012,m,floyd,m-floyd-2012
+19,1,20,TEN,kendall wright,WR,22.0,Baylor,2012,k,wright,k-wright-2012
+29,1,30,SFO,a.j. jenkins,WR,22.0,Illinois,2012,a,jenkins,a-jenkins-2012
+32,2,33,STL,brian quick,WR,23.0,Appalachian St.,2012,b,quick,b-quick-2012
+42,2,43,NYJ,stephen hill,WR,21.0,Georgia Tech,2012,s,hill,s-hill-2012
+44,2,45,CHI,alshon jeffery,WR,22.0,South Carolina,2012,a,jeffery,a-jeffery-2012
+53,2,54,DET,ryan broyles,WR,24.0,Oklahoma,2012,r,broyles,r-broyles-2012
+62,2,63,NYG,rueben randle,WR,21.0,LSU,2012,r,randle,r-randle-2012
+67,3,68,HOU,devier posey,WR,22.0,Ohio St.,2012,d,posey,d-posey-2012
+68,3,69,BUF,t.j. graham,WR,23.0,North Carolina St.,2012,t,graham,t-graham-2012
+82,3,83,CIN,mohamed sanu,WR,23.0,Rutgers,2012,m,sanu,m-sanu-2012
+91,3,92,IND,t.y. hilton,WR,22.0,Florida International,2012,t,hilton,t-hilton-2012
+95,4,96,STL,chris givens,WR,22.0,Wake Forest,2012,c,givens,c-givens-2012
+99,4,100,CLE,travis benjamin,WR,22.0,Miami (FL),2012,t,benjamin,t-benjamin-2012
+103,4,104,CAR,joe adams,WR,22.0,Arkansas,2012,j,adams,j-adams-2012
+106,4,107,KAN,devon wylie,WR,24.0,Fresno St.,2012,d,wylie,d-wylie-2012
+117,4,118,MIN,jarius wright,WR,22.0,Arkansas,2012,j,wright,j-wright-2012
+120,4,121,HOU,keshawn martin,WR,22.0,Michigan St.,2012,k,martin,k-martin-2012
+121,4,122,NOR,nick toon,WR,23.0,Wisconsin,2012,n,toon,n-toon-2012
+133,4,134,MIN,greg childs,WR,22.0,Arkansas,2012,g,childs,g-childs-2012
+151,5,152,DAL,danny coale,WR,24.0,Virginia Tech,2012,d,coale,d-coale-2012
+165,5,166,CIN,marvin jones,WR,22.0,California,2012,m,jones,m-jones-2012
+167,5,168,OAK,juron criner,WR,22.0,Arizona,2012,j,criner,j-criner-2012
+182,6,183,MIA,b.j. cunningham,WR,23.0,Michigan St.,2012,b,cunningham,b-cunningham-2012
+193,6,194,PHI,marvin mcnutt,WR,23.0,Iowa,2012,m,mcnutt,m-mcnutt-2012
+197,6,198,BAL,tommy streeter,WR,22.0,Miami (FL),2012,t,streeter,t-streeter-2012
+205,6,206,IND,lavon brazill,WR,23.0,Ohio,2012,l,brazill,l-brazill-2012
+226,7,227,MIA,rishard matthews,WR,22.0,Nevada,2012,r,matthews,r-matthews-2012
+230,7,231,PIT,toney clemons,WR,23.0,Colorado,2012,t,clemons,t-clemons-2012
+234,7,235,NWE,jeremy ebert,WR,23.0,Northwestern,2012,j,ebert,j-ebert-2012
+237,7,238,KAN,junior hemingway,WR,23.0,Michigan,2012,j,hemingway,j-hemingway-2012
+243,7,244,NYJ,jordan white,WR,24.0,Western Michigan,2012,j,white,j-white-2012
+7,1,8,STL,tavon austin,WR,23.0,West Virginia,2013,t,austin,t-austin-2013
+26,1,27,HOU,deandre hopkins,WR,21.0,Clemson,2013,d,hopkins,d-hopkins-2013
+28,1,29,MIN,cordarrelle patterson,WR,22.0,Tennessee,2013,c,patterson,c-patterson-2013
+33,2,34,TEN,justin hunter,WR,22.0,Tennessee,2013,j,hunter,j-hunter-2013
+40,2,41,BUF,robert woods,WR,21.0,USC,2013,r,woods,r-woods-2013
+58,2,59,NWE,aaron dobson,WR,22.0,Marshall,2013,a,dobson,a-dobson-2013
+73,3,74,DAL,terrance williams,WR,23.0,Baylor,2013,t,williams,t-williams-2013
+75,3,76,SDG,keenan allen,WR,21.0,California,2013,k,allen,k-allen-2013
+77,3,78,BUF,marquise goodwin,WR,22.0,Texas,2013,m,goodwin,m-goodwin-2013
+78,3,79,PIT,markus wheaton,WR,22.0,Oregon St.,2013,m,wheaton,m-wheaton-2013
+91,3,92,STL,stedman bailey,WR,22.0,West Virginia,2013,s,bailey,s-bailey-2013
+100,4,101,JAX,ace sanders,WR,21.0,South Carolina,2013,a,sanders,a-sanders-2013
+101,4,102,NWE,josh boyce,WR,22.0,TCU,2013,j,boyce,j-boyce-2013
+122,4,123,SEA,chris harper,WR,23.0,Kansas St.,2013,c,harper,c-harper-2013
+127,4,128,SFO,quinton patton,WR,23.0,Louisiana Tech,2013,q,patton,q-patton-2013
+134,5,135,JAX,denard robinson,WR,22.0,Michigan,2013,d,robinson,d-robinson-2013
+143,5,144,NOR,kenny stills,WR,21.0,Oklahoma,2013,k,stills,k-stills-2013
+160,5,161,DEN,tavarres king,WR,23.0,Georgia,2013,t,king,t-king-2013
+170,6,171,DET,corey fuller,WR,23.0,Virginia Tech,2013,c,fuller,c-fuller-2013
+173,6,174,ARI,ryan swope,WR,22.0,Texas A&M,2013,r,swope,r-swope-2013
+185,6,186,PIT,justin brown,WR,22.0,Oklahoma,2013,j,brown,j-brown-2013
+194,6,195,HOU,alan bonner,WR,22.0,Jacksonville St.,2013,a,bonner,a-bonner-2013
+196,6,197,CIN,cobi hamilton,WR,22.0,Arkansas,2013,c,hamilton,c-hamilton-2013
+208,7,209,OAK,brice butler,WR,23.0,San Diego St.,2013,b,butler,b-butler-2013
+215,7,216,GNB,charles johnson,WR,24.0,Grand Valley St.,2013,c,johnson,c-johnson-2013
+223,7,224,GNB,kevin dorsey,WR,23.0,Maryland,2013,k,dorsey,k-dorsey-2013
+235,7,236,CHI,marquess wilson,WR,20.0,Washington St.,2013,m,wilson,m-wilson-2013
+237,7,238,BAL,aaron mellette,WR,23.0,Elon,2013,a,mellette,a-mellette-2013
+3,1,4,BUF,sammy watkins,WR,21.0,Clemson,2014,s,watkins,s-watkins-2014
+6,1,7,TAM,mike evans,WR,21.0,Texas A&M,2014,m,evans,m-evans-2014
+11,1,12,NYG,odell beckham,WR,21.0,LSU,2014,o,beckham,o-beckham-2014
+19,1,20,NOR,brandin cooks,WR,20.0,Oregon St.,2014,b,cooks,b-cooks-2014
+27,1,28,CAR,kelvin benjamin,WR,23.0,Florida St.,2014,k,benjamin,k-benjamin-2014
+38,2,39,JAX,marqise lee,WR,22.0,USC,2014,m,lee,m-lee-2014
+41,2,42,PHI,jordan matthews,WR,22.0,Vanderbilt,2014,j,matthews,j-matthews-2014
+44,2,45,SEA,paul richardson,WR,22.0,Colorado,2014,p,richardson,p-richardson-2014
+52,2,53,GNB,davante adams,WR,21.0,Fresno St.,2014,d,adams,d-adams-2014
+55,2,56,DEN,cody latimer,WR,21.0,Indiana,2014,c,latimer,c-latimer-2014
+60,2,61,JAX,allen robinson,WR,21.0,Penn St.,2014,a,robinson,a-robinson-2014
+62,2,63,MIA,jarvis landry,WR,21.0,LSU,2014,j,landry,j-landry-2014
+85,3,86,PHI,josh huff,WR,22.0,Oregon,2014,j,huff,j-huff-2014
+89,3,90,IND,donte moncrief,WR,21.0,Mississippi,2014,d,moncrief,d-moncrief-2014
+90,3,91,ARI,john brown,WR,24.0,Pittsburg St.,2014,j,brown,j-brown-2014
+96,3,97,PIT,dri archer,WR,23.0,Kent St.,2014,d,archer,d-archer-2014
+103,4,104,NYJ,jalen saunders,WR,21.0,Oklahoma,2014,j,saunders,j-saunders-2014
+105,4,106,SFO,bruce ellington,WR,23.0,South Carolina,2014,b,ellington,b-ellington-2014
+114,4,115,NYJ,shaquelle evans,WR,23.0,UCLA,2014,s,evans,s-evans-2014
+117,4,118,PIT,martavis bryant,WR,22.0,Clemson,2014,m,bryant,m-bryant-2014
+122,4,123,SEA,kevin norwood,WR,24.0,Alabama,2014,k,norwood,k-norwood-2014
+141,5,142,WAS,ryan grant,WR,23.0,Tulane,2014,r,grant,r-grant-2014
+145,5,146,DAL,devin street,WR,23.0,Pittsburgh,2014,d,street,d-street-2014
+175,5,176,GNB,jared abbrederis,WR,23.0,Wisconsin,2014,j,abbrederis,j-abbrederis-2014
+184,6,185,TAM,robert herron,WR,22.0,Wyoming,2014,r,herron,r-herron-2014
+188,6,189,DET,t.j. jones,WR,22.0,Notre Dame,2014,t,jones,t-jones-2014
+189,6,190,MIA,matt hazel,WR,22.0,Coastal Carolina,2014,m,hazel,m-hazel-2014
+195,6,196,ARI,walt powell,WR,22.0,Murray St.,2014,w,powell,w-powell-2014
+208,6,209,NYJ,quincy enunwa,WR,22.0,Nebraska,2014,q,enunwa,q-enunwa-2014
+217,7,218,BAL,michael campanaro,WR,23.0,Wake Forest,2014,m,campanaro,m-campanaro-2014
+235,7,236,GNB,jeff janis,WR,23.0,Saginaw Valley St.,2014,j,janis,j-janis-2014
+238,7,239,CIN,james wright,WR,22.0,LSU,2014,j,wright,j-wright-2014
+239,7,240,SDG,tevin reese,WR,23.0,Baylor,2014,t,reese,t-reese-2014
+243,7,244,NWE,jeremy gallon,WR,24.0,Michigan,2014,j,gallon,j-gallon-2014
+3,1,4,OAK,amari cooper,WR,21.0,Alabama,2015,a,cooper,a-cooper-2015
+6,1,7,CHI,kevin white,WR,23.0,West Virginia,2015,k,white,k-white-2015
+13,1,14,MIA,devante parker,WR,22.0,Louisville,2015,d,parker,d-parker-2015
+19,1,20,PHI,nelson agholor,WR,22.0,USC,2015,n,agholor,n-agholor-2015
+25,1,26,BAL,breshad perriman,WR,21.0,Central Florida,2015,b,perriman,b-perriman-2015
+28,1,29,IND,phillip dorsett,WR,22.0,Miami (FL),2015,p,dorsett,p-dorsett-2015
+36,2,37,NYJ,devin smith,WR,23.0,Ohio St.,2015,d,smith,d-smith-2015
+39,2,40,TEN,dorial green-beckham,WR,22.0,Oklahoma,2015,d,green-beckham,d-green-beckham-2015
+68,3,69,SEA,tyler lockett,WR,22.0,Kansas St.,2015,t,lockett,t-lockett-2015
+69,3,70,HOU,jaelen strong,WR,21.0,Arizona St.,2015,j,strong,j-strong-2015
+75,3,76,KAN,chris conley,WR,22.0,Georgia,2015,c,conley,c-conley-2015
+86,3,87,PIT,sammie coates,WR,22.0,Auburn,2015,s,coates,s-coates-2015
+93,3,94,GNB,ty montgomery,WR,22.0,Stanford,2015,t,montgomery,t-montgomery-2015
+104,4,105,WAS,jamison crowder,WR,22.0,Duke,2015,j,crowder,j-crowder-2015
+106,4,107,ATL,justin hardy,WR,23.0,East Carolina,2015,j,hardy,j-hardy-2015
+122,4,123,CLE,vince mayle,WR,24.0,Washington St.,2015,v,mayle,v-mayle-2015
+131,4,132,SFO,deandre smelter,WR,23.0,Georgia Tech,2015,d,smelter,d-smelter-2015
+138,5,139,JAX,rashad greene,WR,22.0,Florida St.,2015,r,greene,r-greene-2015
+145,5,146,MIN,stefon diggs,WR,21.0,Maryland,2015,s,diggs,s-diggs-2015
+155,5,156,MIA,tony lippett,WR,23.0,Michigan St.,2015,t,lippett,t-lippett-2015
+158,5,159,ARI,jj nelson,WR,23.0,Ala-Birmingham,2015,j,nelson,j-nelson-2015
+161,5,162,TAM,kenny bell,WR,23.0,Nebraska,2015,k,bell,k-bell-2015
+174,5,175,HOU,keith mumphery,WR,23.0,Michigan St.,2015,k,mumphery,k-mumphery-2015
+183,6,184,TAM,kaelin clay,WR,23.0,Utah,2015,k,clay,k-clay-2015
+185,6,186,NYG,geremy davis,WR,23.0,Connecticut,2015,g,davis,g-davis-2015
+186,6,187,WAS,evan spencer,WR,22.0,Ohio St.,2015,e,spencer,e-spencer-2015
+200,6,201,STL,bud sasser,WR,,Missouri,2015,b,sasser,b-sasser-2015
+203,6,204,BAL,darren waller,WR,22.0,Georgia Tech,2015,d,waller,d-waller-2015
+219,7,220,JAX,neal sterling,WR,23.0,Monmouth,2015,n,sterling,n-sterling-2015
+220,7,221,OAK,andre debose,WR,,Florida,2015,a,debose,a-debose-2015
+232,7,233,KAN,da'ron brown,WR,23.0,Northern Illinois,2015,d,brown,d-brown-2015
+233,7,234,BUF,dezmin lewis,WR,22.0,Central Arkansas,2015,d,lewis,d-lewis-2015
+237,7,238,CIN,mario alford,WR,23.0,West Virginia,2015,m,alford,m-alford-2015
+244,7,245,TEN,tre mcbride,WR,22.0,William & Mary,2015,t,mcbride,t-mcbride-2015
+14,1,15,CLE,corey coleman,WR,22.0,Baylor,2016,c,coleman,c-coleman-2016
+20,1,21,HOU,will fuller,WR,22.0,Notre Dame,2016,w,fuller,w-fuller-2016
+21,1,22,WAS,josh doctson,WR,23.0,TCU,2016,j,doctson,j-doctson-2016
+22,1,23,MIN,laquon treadwell,WR,21.0,Mississippi,2016,l,treadwell,l-treadwell-2016
+39,2,40,NYG,sterling shepard,WR,23.0,Oklahoma,2016,s,shepard,s-shepard-2016
+46,2,47,NOR,michael thomas,WR,23.0,Ohio St.,2016,m,thomas,m-thomas-2016
+54,2,55,CIN,tyler boyd,WR,21.0,Pittsburgh,2016,t,boyd,t-boyd-2016
+84,3,85,HOU,braxton miller,WR,23.0,Ohio St.,2016,b,miller,b-miller-2016
+85,3,86,MIA,leonte carroo,WR,22.0,Rutgers,2016,l,carroo,l-carroo-2016
+106,4,107,BAL,chris moore,WR,23.0,Cincinnati,2016,c,moore,c-moore-2016
+111,4,112,NWE,malcolm mitchell,WR,24.0,Georgia,2016,m,mitchell,m-mitchell-2016
+113,4,114,CLE,ricardo louis,WR,22.0,Auburn,2016,r,louis,r-louis-2016
+116,4,117,LAR,pharoh cooper,WR,21.0,South Carolina,2016,p,cooper,p-cooper-2016
+125,4,126,KAN,demarcus robinson,WR,21.0,Florida,2016,d,robinson,d-robinson-2016
+139,5,140,TEN,tajae sharpe,WR,21.0,Massachusetts,2016,t,sharpe,t-sharpe-2016
+153,5,154,CLE,jordan payton,WR,23.0,UCLA,2016,j,payton,j-payton-2016
+162,5,163,GNB,trevor davis,WR,23.0,California,2016,t,davis,t-davis-2016
+164,5,165,KAN,tyreek hill,WR,22.0,West Alabama,2016,t,hill,t-hill-2016
+171,5,172,CLE,rashard higgins,WR,21.0,Colorado St.,2016,r,higgins,r-higgins-2016
+179,6,180,MIN,moritz boehringer,WR,22.0,,2016,m,boehringer,m-boehringer-2016
+185,6,186,MIA,jakeem grant,WR,23.0,Texas Tech,2016,j,grant,j-grant-2016
+191,6,192,BUF,kolby listenbee,WR,22.0,TCU,2016,k,listenbee,k-listenbee-2016
+198,6,199,CIN,cody core,WR,22.0,Mississippi,2016,c,core,c-core-2016
+205,6,206,LAR,mike thomas,WR,22.0,Southern Miss,2016,m,thomas,m-thomas-2016
+212,6,213,SFO,aaron burbridge,WR,22.0,Michigan St.,2016,a,burbridge,a-burbridge-2016
+224,7,225,NWE,devin lucien,WR,23.0,Arizona St.,2016,d,lucien,d-lucien-2016
+228,7,229,PIT,demarcus ayers,WR,22.0,Houston,2016,d,ayers,d-ayers-2016
+229,7,230,CHI,daniel braverman,WR,22.0,Western Michigan,2016,d,braverman,d-braverman-2016
+237,7,238,ATL,devin fuller,WR,22.0,UCLA,2016,d,fuller,d-fuller-2016
+240,7,241,NYJ,charone peake,WR,23.0,Clemson,2016,c,peake,c-peake-2016
+242,7,243,SEA,kenny lawler,WR,22.0,California,2016,k,lawler,k-lawler-2016
+4,1,5,TEN,corey davis,WR,22.0,Western Michigan,2017,c,davis,c-davis-2017
+6,1,7,LAC,mike williams,WR,22.0,Clemson,2017,m,williams,m-williams-2017
+8,1,9,CIN,john ross,WR,21.0,Washington,2017,j,ross,j-ross-2017
+36,2,37,BUF,zay jones,WR,22.0,East Carolina,2017,z,jones,z-jones-2017
+39,2,40,CAR,curtis samuel,WR,21.0,Ohio St.,2017,c,samuel,c-samuel-2017
+61,2,62,PIT,juju smith-schuster,WR,20.0,USC,2017,j,smith-schuster,j-smith-schuster-2017
+68,3,69,LAR,cooper kupp,WR,24.0,East. Washington,2017,c,kupp,c-kupp-2017
+71,3,72,TEN,taywan taylor,WR,22.0,Western Kentucky,2017,t,taylor,t-taylor-2017
+78,3,79,NYJ,ardarius stewart,WR,23.0,Alabama,2017,a,stewart,a-stewart-2017
+81,3,82,DEN,carlos henderson,WR,22.0,Louisiana Tech,2017,c,henderson,c-henderson-2017
+83,3,84,TAM,chris godwin,WR,21.0,Penn St.,2017,c,godwin,c-godwin-2017
+95,3,96,DET,kenny golladay,WR,23.0,Northern Illinois,2017,k,golladay,k-golladay-2017
+97,3,98,ARI,chad williams,WR,22.0,Grambling St.,2017,c,williams,c-williams-2017
+105,3,106,SEA,amara darboh,WR,23.0,Michigan,2017,a,darboh,a-darboh-2017
+109,4,110,JAX,dede westbrook,WR,23.0,Oklahoma,2017,d,westbrook,d-westbrook-2017
+116,4,117,LAR,josh reynolds,WR,22.0,Texas A&M,2017,j,reynolds,j-reynolds-2017
+117,4,118,PHI,mack hollins,WR,23.0,North Carolina,2017,m,hollins,m-hollins-2017
+127,4,128,CIN,josh malone,WR,21.0,Tennessee,2017,j,malone,j-malone-2017
+132,4,133,DAL,ryan switzer,WR,22.0,North Carolina,2017,r,switzer,r-switzer-2017
+138,4,139,KAN,jehu chesson,WR,23.0,Michigan,2017,j,chesson,j-chesson-2017
+140,4,141,NYJ,chad hansen,WR,22.0,California,2017,c,hansen,c-hansen-2017
+165,5,166,PHI,shelton gibson,WR,23.0,West Virginia,2017,s,gibson,s-gibson-2017
+169,5,170,MIN,rodney adams,WR,22.0,South Florida,2017,r,adams,r-adams-2017
+171,5,172,DEN,isaiah mckenzie,WR,22.0,Georgia,2017,i,mckenzie,i-mckenzie-2017
+174,5,175,GNB,deangelo yancey,WR,22.0,Purdue,2017,d,yancey,d-yancey-2017
+176,5,177,SFO,trent taylor,WR,23.0,Louisiana Tech,2017,t,taylor,t-taylor-2017
+208,6,209,WAS,robert davis,WR,22.0,Georgia St.,2017,r,davis,r-davis-2017
+218,7,219,MIN,stacy coley,WR,23.0,Miami (FL),2017,s,coley,s-coley-2017
+225,7,226,SEA,david moore,WR,22.0,East Central (OK),2017,d,moore,d-moore-2017
+236,7,237,MIA,isaiah ford,WR,21.0,Virginia Tech,2017,i,ford,i-ford-2017
+238,7,239,DAL,noah brown,WR,21.0,Ohio St.,2017,n,brown,n-brown-2017
+246,7,247,GNB,malachi dupre,WR,21.0,LSU,2017,m,dupre,m-dupre-2017
+23,1,24,CAR,d.j. moore,WR,21.0,Maryland,2018,d,moore,d-moore-2018
+25,1,26,ATL,calvin ridley,WR,23.0,Alabama,2018,c,ridley,c-ridley-2018
+39,2,40,DEN,courtland sutton,WR,22.0,SMU,2018,c,sutton,c-sutton-2018
+43,2,44,SFO,dante pettis,WR,22.0,Washington,2018,d,pettis,d-pettis-2018
+46,2,47,ARI,christian kirk,WR,21.0,Texas A&M,2018,c,kirk,c-kirk-2018
+50,2,51,CHI,anthony miller,WR,23.0,Memphis,2018,a,miller,a-miller-2018
+59,2,60,PIT,james washington,WR,22.0,Oklahoma St.,2018,j,washington,j-washington-2018
+60,2,61,JAX,dj chark,WR,21.0,LSU,2018,d,chark,d-chark-2018
+80,3,81,DAL,michael gallup,WR,22.0,Colorado St.,2018,m,gallup,m-gallup-2018
+90,3,91,NOR,tre'quan smith,WR,22.0,Central Florida,2018,t,smith,t-smith-2018
+102,4,103,HOU,keke coutee,WR,21.0,Texas Tech,2018,k,coutee,k-coutee-2018
+104,4,105,CLE,antonio callaway,WR,21.0,Florida,2018,a,callaway,a-callaway-2018
+112,4,113,DEN,daesean hamilton,WR,23.0,Penn St.,2018,d,hamilton,d-hamilton-2018
+131,4,132,BAL,jaleel scott,WR,23.0,New Mexico St.,2018,j,scott,j-scott-2018
+132,4,133,GNB,j'mon moore,WR,23.0,Missouri,2018,j,moore,j-moore-2018
+143,5,144,TAM,justin watson,WR,22.0,Pennsylvania,2018,j,watson,j-watson-2018
+158,5,159,IND,daurice fountain,WR,22.0,Northern Iowa,2018,d,fountain,d-fountain-2018
+161,5,162,BAL,jordan lasley,WR,21.0,UCLA,2018,j,lasley,j-lasley-2018
+173,5,174,GNB,marquez valdes-scantling,WR,23.0,South Florida,2018,m,valdes-scantling,m-valdes-scantling-2018
+174,6,175,CLE,damion ratley,WR,23.0,Texas A&M,2018,d,ratley,d-ratley-2018
+184,6,185,IND,deon cain,WR,22.0,Clemson,2018,d,cain,d-cain-2018
+186,6,187,BUF,ray-ray mccloud,WR,21.0,Clemson,2018,r,mccloud,r-mccloud-2018
+190,6,191,LAC,dylan cantrell,WR,24.0,Texas Tech,2018,d,cantrell,d-cantrell-2018
+193,6,194,ATL,russell gage,WR,22.0,LSU,2018,r,gage,r-gage-2018
+195,6,196,KAN,tremon smith,WR,22.0,Central Arkansas,2018,t,smith,t-smith-2018
+206,6,207,GNB,equanimeous st. brown,WR,21.0,Notre Dame,2018,e,brown,e-brown-2018
+207,6,208,DAL,cedrick wilson,WR,22.0,Boise St.,2018,c,wilson,c-wilson-2018
+209,6,210,NWE,braxton berrios,WR,22.0,Miami (FL),2018,b,berrios,b-berrios-2018
+223,7,224,CHI,javon wims,WR,23.0,Georgia,2018,j,wims,j-wims-2018
+227,7,228,OAK,marcell ateman,WR,23.0,Oklahoma St.,2018,m,ateman,m-ateman-2018
+239,7,240,SFO,richie james,WR,23.0,Middle Tenn. St.,2018,r,james,r-james-2018
+252,7,253,CIN,auden tate,WR,21.0,Florida St.,2018,a,tate,a-tate-2018
+254,7,255,BUF,austin proehl,WR,22.0,North Carolina,2018,a,proehl,a-proehl-2018
+255,7,256,WAS,trey quinn,WR,22.0,SMU,2018,t,quinn,t-quinn-2018
+24,1,25,BAL,marquise brown,WR,22.0,Oklahoma,2019,m,brown,m-brown-2019
+31,1,32,NWE,n'keal harry,WR,21.0,Arizona St.,2019,n,harry,n-harry-2019
+35,2,36,SFO,deebo samuel,WR,23.0,South Carolina,2019,d,samuel,d-samuel-2019
+50,2,51,TEN,a.j. brown,WR,22.0,Mississippi,2019,a,brown,a-brown-2019
+55,2,56,KAN,mecole hardman,WR,21.0,Georgia,2019,m,hardman,m-hardman-2019
+56,2,57,PHI,jj arcega-whiteside,WR,22.0,Stanford,2019,j,arcega-whiteside,j-arcega-whiteside-2019
+58,2,59,IND,parris campbell,WR,22.0,Ohio St.,2019,p,campbell,p-campbell-2019
+61,2,62,ARI,andy isabella,WR,22.0,Massachusetts,2019,a,isabella,a-isabella-2019
+63,2,64,SEA,d.k. metcalf,WR,21.0,Mississippi,2019,d,metcalf,d-metcalf-2019
+65,3,66,PIT,diontae johnson,WR,23.0,Toledo,2019,d,johnson,d-johnson-2019
+66,3,67,SFO,jalen hurd,WR,23.0,Baylor,2019,j,hurd,j-hurd-2019
+75,3,76,WAS,terry mclaurin,WR,23.0,Ohio St.,2019,t,mclaurin,t-mclaurin-2019
+92,3,93,BAL,miles boykin,WR,22.0,Notre Dame,2019,m,boykin,m-boykin-2019
+102,4,103,ARI,hakeem butler,WR,23.0,Iowa St.,2019,h,butler,h-butler-2019
+119,4,120,SEA,gary jennings,WR,22.0,West Virginia,2019,g,jennings,g-jennings-2019
+125,4,126,CHI,riley ridley,WR,23.0,Georgia,2019,r,ridley,r-ridley-2019
+148,5,149,OAK,hunter renfrow,WR,23.0,Clemson,2019,h,renfrow,h-renfrow-2019
+170,5,171,NYG,darius slayton,WR,22.0,Auburn,2019,d,slayton,d-slayton-2019
+173,6,174,ARI,keesean johnson,WR,22.0,Fresno St.,2019,k,johnson,k-johnson-2019
+183,6,184,DET,travis fulgham,WR,23.0,Old Dominion,2019,t,fulgham,t-fulgham-2019
+186,6,187,DEN,juwann winfree,WR,23.0,Colorado,2019,j,winfree,j-winfree-2019
+202,6,203,ATL,marcus green,WR,23.0,La-Monroe,2019,m,green,m-green-2019
+205,6,206,WAS,kelvin harmon,WR,22.0,North Carolina St.,2019,k,harmon,k-harmon-2019
+207,6,208,TAM,scott miller,WR,22.0,Bowling Green,2019,s,miller,s-miller-2019
+235,7,236,SEA,john ursua,WR,25.0,Hawaii,2019,j,ursua,j-ursua-2019
+236,7,237,CAR,terry godwin,WR,22.0,Georgia,2019,t,godwin,t-godwin-2019
+238,7,239,MIN,dillon mitchell,WR,22.0,Oregon,2019,d,mitchell,d-mitchell-2019
+246,7,247,MIN,olabisi johnson,WR,22.0,Colorado St.,2019,o,johnson,o-johnson-2019
+11,1,12,LVR,henry ruggs,WR,21.0,Alabama,2020,h,ruggs,h-ruggs-2020
+14,1,15,DEN,jerry jeudy,WR,21.0,Alabama,2020,j,jeudy,j-jeudy-2020
+16,1,17,DAL,ceedee lamb,WR,21.0,Oklahoma,2020,c,lamb,c-lamb-2020
+20,1,21,PHI,jalen reagor,WR,21.0,TCU,2020,j,reagor,j-reagor-2020
+21,1,22,MIN,justin jefferson,WR,21.0,LSU,2020,j,jefferson,j-jefferson-2020
+24,1,25,SFO,brandon aiyuk,WR,22.0,Arizona St.,2020,b,aiyuk,b-aiyuk-2020
+32,2,33,CIN,tee higgins,WR,21.0,Clemson,2020,t,higgins,t-higgins-2020
+33,2,34,IND,michael pittman,WR,22.0,USC,2020,m,pittman,m-pittman-2020
+41,2,42,JAX,laviska shenault,WR,21.0,Colorado,2020,l,shenault,l-shenault-2020
+45,2,46,DEN,kj hamler,WR,21.0,Penn St.,2020,k,hamler,k-hamler-2020
+48,2,49,PIT,chase claypool,WR,22.0,Notre Dame,2020,c,claypool,c-claypool-2020
+56,2,57,LAR,van jefferson,WR,24.0,Florida,2020,v,jefferson,v-jefferson-2020
+58,2,59,NYJ,denzel mims,WR,22.0,Baylor,2020,d,mims,d-mims-2020
+79,3,80,LVR,lynn bowden,WR,22.0,Kentucky,2020,l,bowden,l-bowden-2020
+80,3,81,LVR,bryan edwards,WR,21.0,South Carolina,2020,b,edwards,b-edwards-2020
+91,3,92,BAL,devin duvernay,WR,22.0,Texas,2020,d,duvernay,d-duvernay-2020
+127,4,128,BUF,gabriel davis,WR,21.0,Central Florida,2020,g,davis,g-davis-2020
+141,4,142,WAS,antonio gandy-golden,WR,22.0,Liberty,2020,a,gandy-golden,a-gandy-golden-2020
+150,5,151,LAC,joe reed,WR,22.0,Virginia,2020,j,reed,j-reed-2020
+160,5,161,TAM,tyler johnson,WR,22.0,Minnesota,2020,t,johnson,t-johnson-2020
+164,5,165,JAX,collin johnson,WR,22.0,Texas,2020,c,johnson,c-johnson-2020
+165,5,166,DET,quintez cephus,WR,22.0,Wisconsin,2020,q,cephus,q-cephus-2020
+167,5,168,PHI,john hightower,WR,24.0,Boise St.,2020,j,hightower,j-hightower-2020
+170,5,171,HOU,isaiah coulter,WR,21.0,Rhode Island,2020,i,coulter,i-coulter-2020
+172,5,173,CHI,darnell mooney,WR,22.0,Tulane,2020,d,mooney,d-mooney-2020
+175,5,176,MIN,k.j. osborn,WR,23.0,Miami (FL),2020,k,osborn,k-osborn-2020
+186,6,187,CLE,donovan peoples-jones,WR,21.0,Michigan,2020,d,peoples-jones,d-peoples-jones-2020
+199,6,200,PHI,quez watkins,WR,22.0,Southern Miss,2020,q,watkins,q-watkins-2020
+200,6,201,BAL,james proche,WR,23.0,SMU,2020,j,proche,j-proche-2020
+206,6,207,BUF,isaiah hodgins,WR,21.0,Oregon St.,2020,i,hodgins,i-hodgins-2020
+211,6,212,IND,dezmon patmon,WR,22.0,Washington St.,2020,d,patmon,d-patmon-2020
+213,6,214,SEA,freddie swain,WR,22.0,Florida,2020,f,swain,f-swain-2020
+216,7,217,SFO,jauan jennings,WR,23.0,Tennessee,2020,j,jennings,j-jennings-2020
+219,7,220,LAC,k.j. hill,WR,22.0,Ohio St.,2020,k,hill,k-hill-2020
+251,7,252,DEN,tyrie cleveland,WR,22.0,Florida,2020,t,cleveland,t-cleveland-2020
+4,1,5,CIN,ja'marr chase,WR,21.0,LSU,2021,j,chase,j-chase-2021
+5,1,6,MIA,jaylen waddle,WR,22.0,Alabama,2021,j,waddle,j-waddle-2021
+9,1,10,PHI,devonta smith,WR,22.0,Alabama,2021,d,smith,d-smith-2021
+19,1,20,NYG,kadarius toney,WR,22.0,Florida,2021,k,toney,k-toney-2021
+26,1,27,BAL,rashod bateman,WR,21.0,Minnesota,2021,r,bateman,r-bateman-2021
+33,2,34,NYJ,elijah moore,WR,21.0,Mississippi,2021,e,moore,e-moore-2021
+48,2,49,ARI,rondale moore,WR,21.0,Purdue,2021,r,moore,r-moore-2021
+55,2,56,SEA,d'wayne eskridge,WR,24.0,Western Michigan,2021,d,eskridge,d-eskridge-2021
+56,2,57,LAR,tutu atwell,WR,21.0,Louisville,2021,t,atwell,t-atwell-2021
+58,2,59,CAR,terrace marshall,WR,21.0,LSU,2021,t,marshall,t-marshall-2021
+76,3,77,LAC,josh palmer,WR,22.0,Tennessee,2021,j,palmer,j-palmer-2021
+81,3,82,WAS,dyami brown,WR,21.0,North Carolina,2021,d,brown,d-brown-2021
+84,3,85,GNB,amari rodgers,WR,21.0,Clemson,2021,a,rodgers,a-rodgers-2021
+88,3,89,HOU,nico collins,WR,22.0,Michigan,2021,n,collins,n-collins-2021
+90,3,91,CLE,anthony schwartz,WR,21.0,Auburn,2021,a,schwartz,a-schwartz-2021
+108,4,109,TEN,dez fitzpatrick,WR,23.0,Louisville,2021,d,fitzpatrick,d-fitzpatrick-2021
+111,4,112,DET,amon-ra st. brown,WR,21.0,USC,2021,a,brown,a-brown-2021
+128,4,129,TAM,jaelon darden,WR,22.0,North Texas,2021,j,darden,j-darden-2021
+130,4,131,BAL,tylan wallace,WR,22.0,Oklahoma St.,2021,t,wallace,t-wallace-2021
+140,4,141,LAR,jacob harris,WR,24.0,Central Florida,2021,j,harris,j-harris-2021
+156,5,157,MIN,ihmir smith-marsette,WR,22.0,Iowa,2021,i,smith-marsette,i-smith-marsette-2021
+178,5,179,DAL,simi fehoko,WR,23.0,Stanford,2021,s,fehoko,s-fehoko-2021
+180,5,181,KAN,cornell powell,WR,23.0,Clemson,2021,c,powell,c-powell-2021
+186,6,187,ATL,frank darby,WR,23.0,Arizona St.,2021,f,darby,f-darby-2021
+202,6,203,BUF,marquez stevenson,WR,23.0,Houston,2021,m,stevenson,m-stevenson-2021
+203,6,204,CAR,shi smith,WR,22.0,South Carolina,2021,s,smith,s-smith-2021
+204,6,205,TEN,racey mcmath,WR,22.0,LSU,2021,r,mcmath,r-mcmath-2021
+208,6,209,JAX,jalen camp,WR,23.0,Georgia Tech,2021,j,camp,j-camp-2021
+218,6,219,DEN,seth williams,WR,21.0,Auburn,2021,s,williams,s-williams-2021
+220,6,221,CHI,dazz newsome,WR,22.0,North Carolina,2021,d,newsome,d-newsome-2021
+228,7,229,IND,mike strachan,WR,24.0,Charleston (WV),2021,m,strachan,m-strachan-2021
+241,7,242,NWE,tre nixon,WR,23.0,Central Florida,2021,t,nixon,t-nixon-2021
+248,7,249,LAR,ben skowronek,WR,24.0,Notre Dame,2021,b,skowronek,b-skowronek-2021
+254,7,255,NOR,kawaan baker,WR,23.0,South Alabama,2021,k,baker,k-baker-2021
+257,7,258,WAS,dax milne,WR,22.0,BYU,2021,d,milne,d-milne-2021
