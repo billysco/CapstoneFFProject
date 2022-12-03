@@ -55,4 +55,10 @@ elif position == 'RB':
 cbpool = Pool(filtered_df, cat_features=['Team', 'School', 'Conf'])
 
 if st.button("Predict"):
-    st.write(model.predict_proba(cbpool))
+    data = model.predict_proba(cbpool)
+    st.write(pd.DataFrame({
+        "Chance of being a superstar": [data[0][0]],
+        "Chance of being a star": [data[0][1]],
+        "Chance of starting": [data[0][2]],
+        "Chance of being a dud": [data[0][3]]
+    }))
