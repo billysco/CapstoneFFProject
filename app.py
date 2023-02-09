@@ -14,7 +14,6 @@ st.header('Welcome to Quantitative GM!')
 
 st.header('Enter relevant information on the left to get started')
 
-
 year = st.sidebar.number_input('Please enter year drafted', min_value=1993,max_value=2022, value=2022,step=1)
 
 position = st.sidebar.selectbox(
